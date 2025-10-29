@@ -12,7 +12,7 @@
             <a href="#"><span>Company</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="sub-menu">
               <li><a href="about-us.php">About Us</a></li>
-              <li><a href="management-team.php">Management Team</a></li>
+              <li><a href="Management-team.php">Management Team</a></li>
             </ul>
           </li>
 

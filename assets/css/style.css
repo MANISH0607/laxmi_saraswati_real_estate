@@ -533,7 +533,7 @@
     }
     
     #footer .footer-top .social-links a:hover {
-        background-image: linear-gradient(180deg, #24d6c1 0%, #0170b9 100%);
+        background-image: linear-gradient(180deg, #FE9C2E 0%, #9C702A 100%);
         color: #fff;
         text-decoration: none;
     }
@@ -559,7 +559,7 @@
     
     #footer .footer-top .footer-links ul i {
         padding-right: 2px;
-        color: #1dc1bf;
+        color: #FE9C2E;
         font-size: 18px;
         line-height: 1;
     }
@@ -582,7 +582,7 @@
     }
     
     #footer .footer-top .footer-links ul a:hover {
-        color: #20cac0;
+        color: #FE9C2E;
         padding-left: 5px;
     }
     
@@ -601,7 +601,7 @@
     }
     
     .bottom-f {
-        background-image: linear-gradient(180deg, #9C702A 0%, #0C325B 100%);
+        background-image: linear-gradient(180deg, #FE9C2E 0%, #9C702A 100%);
     }
     
     #aboutbanner {
