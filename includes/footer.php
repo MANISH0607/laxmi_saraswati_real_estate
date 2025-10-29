@@ -5,7 +5,7 @@
    <div class="col-lg-3 col-md-6 col-6 footer-links">
             <h4>QUICK LINKS</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About Company</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About Us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Properties</a></li>
               <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">NRI</a></li> -->
               <li><i class="bx bx-chevron-right"></i> <a href="#">Media</a></li>

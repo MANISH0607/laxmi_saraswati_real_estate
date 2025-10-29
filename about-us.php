@@ -36,7 +36,7 @@
 
   <!-- ======= Banner Section ======= -->
   <section id="aboutbanner"
-    style="background: url(assets/img/banner3-5-min.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
+    style="background: url(assets/img/About/4.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
     <div class="container-fluid p-0">
       <h1>About Us</h1>
 
