@@ -37,7 +37,10 @@
           </li>
 
           <li><a href="contact.php">Contact Us</a></li>
+
+          
         </ul>
+        
 
         <!-- Mobile Nav Toggle Icon -->
         <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
