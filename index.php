@@ -317,8 +317,8 @@
           <div class="col-md-2"></div>
           <div class="col-md-3 man-sec">
             <div class="wow zoomInRight" data-aos-duration="3000">
-              <img src="" title="Pin Home Image"
-                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt="Pin Home Image">
+              <!-- <img src="" title=""
+                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
             </div>
 
           </div>
