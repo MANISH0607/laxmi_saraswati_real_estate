@@ -3,11 +3,10 @@
 
   <!-- ======= Navigation ======= -->
   <div class="head-bt bg-light border-bottom">
-    <div class="container d-flex justify-content-between align-items-center">
+    <div class="container d-flex justify-content-md-between justify-content-end align-items-center">
       <nav id="navbar" class="navbar navbar-moblie">
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
-
           <li class="dropdown">
             <a href="#"><span>Company</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="sub-menu">
@@ -43,8 +42,8 @@
         
 
         <!-- Mobile Nav Toggle Icon -->
-        <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
-       
+        <i class="bi bi-list mobile-nav-toggle d-lg-none" id="mobile-toggle"></i>
+
       </nav><!-- .navbar -->
     </div>
   </div>
@@ -65,7 +64,7 @@
       <div class="col-lg-8 col-md-8 d-none d-md-block text-end">
         <h5><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA OFFICE</h5>
         <p>
-          <a href="tel:+918340703433">+91 83407 03433</a> / 
+          <a href="tel:+918340703433">+91 83407 03433</a> /
           <a href="tel:+918340703433">+91 83407 03433</a><br>
           <a href="mailto:blank@01gmail.com">Mail - blank@01gmail.com</a>
         </p>
@@ -79,7 +78,7 @@
       <div class="align-items-center justify-content-center">
         <div class="scroll-text">
           <span>
-            <strong>Patna Office Address:</strong> Pillar No. 93, Post Office Police Station NH-83, 
+            <strong>Patna Office Address:</strong> Pillar No. 93, Post Office Police Station NH-83,
             Railway Crossing, Opposite Rahimpur, Parsa Bazar, Patna, Bihar 804453
           </span>
         </div>
@@ -87,98 +86,155 @@
     </div>
   </section>
 
+  <div class="d-lg-none mobile-header" id="mobile-navmenu">
+    <ul>
+      <li class="menu-items">Home</li>
+      <li class="dropdownMenu menu-items">
+        <div class="d-flex justify-content-between align-items-center submenu-toggle">
+          <a href="javascript:void(0);">Company</a>
+          <i class="fa fa-angle-up text-white"></i>
+        </div>
+        <ul class="subMenuItem">
+          <li><a href="">About Us</a></li>
+          <li><a href="">Management Team</a></li>
+        </ul>
+      </li>
+      <li class="dropdownMenu menu-items">
+        <div class="d-flex justify-content-between align-items-center submenu-toggle">
+          <a href="javascript:void(0);">Properities</a>
+          <i class="fa fa-angle-up text-white"></i>
+        </div>
+        <ul class="subMenuItem">
+          <li><a href="">Commercial / Retails</a></li>
+          <li><a href="">Residentials</a></li>
+          <li><a href="">Land</a></li>
+          <li><a href="">Warehouse</a></li>
+        </ul>
+      </li>
+      <li class="menu-items">Career</li>
+      <li class="dropdownMenu menu-items">
+        <div class="d-flex justify-content-between align-items-center submenu-toggle">
+          <a href="javascript:void(0);">Media</a>
+          <i class="fa fa-angle-up text-white"></i>
+        </div>
+        <ul class="subMenuItem">
+          <li><a href="">Gallery</a></li>
+          <li><a href="">Videos</a></li>
+        </ul>
+      </li>
+      <li class="menu-items">Contact Us</li>
+    </ul>
+  </div>
+
 </header>
 
 <!-- ======= CSS ======= -->
 <style>
-.scroll-text {
-  white-space: nowrap;
-  overflow: hidden;
-}
-.scroll-text span {
-  display: inline-block;
-  padding-left: 100%;
-  animation: scroll-left 25s linear infinite;
-}
-@keyframes scroll-left {
-  0% { transform: translate(0, 0); }
-  100% { transform: translate(-100%, 0); }
-}
+  .scroll-text {
+    white-space: nowrap;
+    overflow: hidden;
+  }
 
-/* ===== Scroll Hide Topbar ===== */
-#topbar {
-  transition: top 0.4s ease, opacity 0.4s ease;
-  position: relative;
-  z-index: 998;
-}
-#topbar.hide-topbar {
-  top: -50px;
-  opacity: 0;
-}
+  .scroll-text span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-left 25s linear infinite;
+  }
 
-/* ===== Header Fixed ===== */
-#header {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: 220px;
-  z-index: 997;
-  border-bottom: 2px solid #7a7a7aff;
-}
-body {
-  padding-top: 195px;
-}
 
-/* ===== Mobile Nav ===== */
-.mobile-nav-toggle {
-  font-size: 28px;
-  cursor: pointer;
-  color: #000;
-  transition: 0.3s;
-  margin-left: 15px;
-}
-.mobile-nav-toggle.bi-x {
-  color: #000;
-}
 
-/* When active */
-.navbar-mobile {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  background: rgba(0,0,0,0.8);
-  transition: 0.3s;
-  z-index: 999;
-  overflow-y: auto;
-}
-.navbar-mobile ul {
-  display: block;
-  background: #fff;
-  margin: 70px 15px;
-  padding: 20px;
-  border-radius: 8px;
-}
-.navbar-mobile ul li {
-  margin-bottom: 10px;
-}
-.navbar-mobile a {
-  display: block;
-  padding: 10px;
-  color: #000 !important;
-  font-weight: 500;
-  text-transform: uppercase;
-}
-.navbar-mobile .dropdown ul {
-  display: none;
-  padding-left: 20px;
-}
-.navbar-mobile .dropdown-active {
-  display: block;
-}
+  @keyframes scroll-left {
+    0% {
+      transform: translate(0, 0);
+    }
 
-.navbar-mobile ul {
+    100% {
+      transform: translate(-100%, 0);
+    }
+  }
+
+  /* ===== Scroll Hide Topbar ===== */
+  #topbar {
+    transition: top 0.4s ease, opacity 0.4s ease;
+    position: relative;
+    z-index: 998;
+  }
+
+  #topbar.hide-topbar {
+    top: -50px;
+    opacity: 0;
+  }
+
+  /* ===== Header Fixed ===== */
+  #header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 220px;
+    z-index: 997;
+    border-bottom: 2px solid #7a7a7aff;
+  }
+
+  body {
+    padding-top: 195px;
+  }
+
+  /* ===== Mobile Nav ===== */
+  .mobile-nav-toggle {
+    font-size: 28px;
+    cursor: pointer;
+    color: #000;
+    transition: 0.3s;
+    margin-left: 15px;
+  }
+
+  .mobile-nav-toggle.bi-x {
+    color: #000;
+  }
+
+  /* When active */
+  .navbar-mobile {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.8);
+    transition: 0.3s;
+    z-index: 999;
+    overflow-y: auto;
+  }
+
+  .navbar-mobile ul {
+    display: block;
+    background: #fff;
+    margin: 70px 15px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+
+  .navbar-mobile ul li {
+    margin-bottom: 10px;
+  }
+
+  .navbar-mobile a {
+    display: block;
+    padding: 10px;
+    color: #000 !important;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+
+  .navbar-mobile .dropdown ul {
+    display: none;
+    padding-left: 20px;
+  }
+
+  .navbar-mobile .dropdown-active {
+    display: block;
+  }
+
+  .navbar-mobile ul {
     display: block;
     position: absolute;
     top: 55px;
@@ -189,53 +245,75 @@ body {
     background-color: #fff;
     overflow-y: auto;
     transition: 0.3s;
-}
-
-/* Hide nav list on desktop only in mobile view */
-@media (max-width: 991px) {
-  .navbar ul {
-    display: none;
   }
-}
+
+  /* Hide nav list on desktop only in mobile view */
+  @media (max-width: 991px) {
+    .navbar ul {
+      display: none;
+    }
+  }
 </style>
 
 <!-- ======= JS ======= -->
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  const topbar = document.getElementById("topbar");
-  const header = document.getElementById("header");
-  const navbar = document.getElementById("navbar");
-  const mobileToggle = document.querySelector(".mobile-nav-toggle");
-  let lastScroll = 0;
+  document.addEventListener("DOMContentLoaded", function() {
+    const topbar = document.getElementById("topbar");
+    const header = document.getElementById("header");
+    const navbar = document.getElementById("navbar");
+    let lastScroll = 0;
 
-  // Scroll Hide Topbar
-  window.addEventListener("scroll", () => {
-    const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
-    if (currentScroll > lastScroll && currentScroll > 100) {
-      topbar.classList.add("hide-topbar");
-    } else {
-      topbar.classList.remove("hide-topbar");
-    }
-    lastScroll = currentScroll <= 0 ? 0 : currentScroll;
-  });
-
-  // Mobile Nav Toggle
-  if (mobileToggle) {
-    mobileToggle.addEventListener("click", function () {
-      navbar.classList.toggle("navbar-mobile");
-      this.classList.toggle("bi-list");
-      this.classList.toggle("bi-x");
+    // Scroll Hide Topbar
+    window.addEventListener("scroll", () => {
+      const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+      if (currentScroll > lastScroll && currentScroll > 100) {
+        topbar.classList.add("hide-topbar");
+      } else {
+        topbar.classList.remove("hide-topbar");
+      }
+      lastScroll = currentScroll <= 0 ? 0 : currentScroll;
     });
 
-    // Dropdown inside mobile menu
-    document.querySelectorAll(".navbar .dropdown > a").forEach(function (dropdownLink) {
-      dropdownLink.addEventListener("click", function (e) {
-        if (navbar.classList.contains("navbar-mobile")) {
-          e.preventDefault();
-          this.nextElementSibling.classList.toggle("dropdown-active");
+  });
+</script>
+
+<script>
+  const navBtn = document.getElementById('mobile-toggle');
+  const navmenu = document.getElementById('mobile-navmenu');
+  const subMenus = document.querySelectorAll(".submenu-toggle");
+  const subMenuItems = document.querySelectorAll('.subMenuItem');
+  navBtn.addEventListener("click", () => {
+    navmenu.classList.toggle('open');
+  })
+
+
+  // subMenus.forEach(toggle => {
+  //   toggle.addEventListener('click', () => {
+  //     const submenuList = toggle.nextElementSibling; // the <ul> right after the toggle
+  //     submenuList.classList.toggle('Toggleopen');
+  //   });
+  // });
+
+  subMenus.forEach(items => {
+    items.addEventListener('click', () => {
+      const submenuList = items.nextElementSibling;
+
+      // 1️⃣ Close all other submenus first
+      document.querySelectorAll('.subMenuItem').forEach(list => {
+        if (list !== submenuList) {
+          list.classList.remove('Toggleopen');
         }
       });
+
+      // 2️⃣ Toggle only the clicked submenu
+      submenuList.classList.toggle('Toggleopen');
     });
-  }
-});
+  });
+
+  // subMenus.forEach(items => {
+  //   items.addEventListener('click', () => {
+  //     const submenuList = items.nextElementSibling;
+      
+  //   })
+  // })
 </script>

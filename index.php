@@ -308,7 +308,7 @@
             <div class="dued-section-title white upper mb-30">
               <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
               <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
-                 – Have questions or need assistance? Contact us today for expert guidance and support.</p>
+                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
             </div>
             <div class="new-button ">
               <a href="">Contact Us</a>
@@ -317,8 +317,8 @@
           <div class="col-md-2"></div>
           <div class="col-md-3 man-sec">
             <div class="wow zoomInRight" data-aos-duration="3000">
-              <img src="" title="Pin Home Image"
-                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt="Pin Home Image">
+              <!-- <img src="" title=""
+                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
             </div>
 
           </div>
@@ -328,91 +328,91 @@
     <!-- end -->
 
 
-<div class="blog-area new-style">
-	<div class="container">
-		<div class="row align-items-center mb-40">
-			<div class="col-lg-12">
-				<div class="dued-section-title upper text-center">
-					<h5>Customer Feedback</h5>
-					<h2>Our Feedbacks</h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="blog-list owl-carousel">
-				<div class="col-lg-12">
-					<div class="single-blog-box">
+    <div class="blog-area new-style">
+      <div class="container">
+        <div class="row align-items-center mb-40">
+          <div class="col-lg-12">
+            <div class="dued-section-title upper text-center">
+              <h5>Customer Feedback</h5>
+              <h2>Our Feedbacks</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="blog-list owl-carousel">
+            <div class="col-lg-12">
+              <div class="single-blog-box">
 
-						<div class="em-blog-content">
-							<div class="em-blog-title d-flex align-items-center justify-content-between">
-								<h2 class="my-0">Tushar Kumar</h2>
-								<p class=" "><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
-							</div>
-							<div class="em-blog-text">
-								<p class="text-justify"><?php echo ('company_name') ?> made our dream home a reality. From site visits to possession, their team was professional, transparent, and supportive throughout.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="single-blog-box">
+                <div class="em-blog-content">
+                  <div class="em-blog-title d-flex align-items-center justify-content-between">
+                    <h2 class="my-0">Tushar Kumar</h2>
+                    <p class=" "><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
+                  </div>
+                  <div class="em-blog-text">
+                    <p class="text-justify"><?php echo ('company_name') ?> made our dream home a reality. From site visits to possession, their team was professional, transparent, and supportive throughout.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="single-blog-box">
 
-						<div class="em-blog-content">
+                <div class="em-blog-content">
 
-							<div class="em-blog-title d-flex align-items-center justify-content-between">
-								<h2 class="my-0">Amit Kumar</h2>
-								<p class="text-justify"><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
-							</div>
-							<div class="em-blog-text">
-								<p class="text-justify">They helped me find the perfect residential plot at the right location and budget. The process was smooth, and the legal documentation was handled expertly.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="single-blog-box">
+                  <div class="em-blog-title d-flex align-items-center justify-content-between">
+                    <h2 class="my-0">Amit Kumar</h2>
+                    <p class="text-justify"><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
+                  </div>
+                  <div class="em-blog-text">
+                    <p class="text-justify">They helped me find the perfect residential plot at the right location and budget. The process was smooth, and the legal documentation was handled expertly.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="single-blog-box">
 
-						<div class="em-blog-content">
+                <div class="em-blog-content">
 
-							<div class="em-blog-title d-flex align-items-center justify-content-between">
-								<h2 class="my-0">Radhe Kumar</a>
-								</h2>
-								<p class="text-justify"><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
-							</div>
-							<div class="em-blog-text">
-								<p class="text-justify">I was looking for a modern, ready-to-move-in flat. The team offered multiple options, and I am extremely happy with the quality of construction and amenities.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-12">
-					<div class="single-blog-box">
+                  <div class="em-blog-title d-flex align-items-center justify-content-between">
+                    <h2 class="my-0">Radhe Kumar</a>
+                    </h2>
+                    <p class="text-justify"><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
+                  </div>
+                  <div class="em-blog-text">
+                    <p class="text-justify">I was looking for a modern, ready-to-move-in flat. The team offered multiple options, and I am extremely happy with the quality of construction and amenities.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="single-blog-box">
 
-						<div class="em-blog-content">
+                <div class="em-blog-content">
 
-							<div class="em-blog-title d-flex align-items-center justify-content-between">
-								<h2 class="my-0">Suraj Kumar</h2>
-								<p class=" "><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
-							</div>
-							<div class="em-blog-text">
-								<p class="text-justify">Their team not only helped me invest wisely but also guided me on future returns and location growth potential. Highly reliable.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-
-			</div>
-		</div>
-	</div>
-</div>
+                  <div class="em-blog-title d-flex align-items-center justify-content-between">
+                    <h2 class="my-0">Suraj Kumar</h2>
+                    <p class=" "><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class="fa fa-solid fa-star text-warning"></i><i class=" fa fa-regular fa-star"></i></p>
+                  </div>
+                  <div class="em-blog-text">
+                    <p class="text-justify">Their team not only helped me invest wisely but also guided me on future returns and location growth potential. Highly reliable.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
 
 
- 
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
   </main><!-- End #main -->
   <?php include('includes/footer.php'); ?>
 
- 
+
 
   <!-- Back to Top -->
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
@@ -420,11 +420,13 @@
   </a>
 
   <!-- Vendor JS Files -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/glightbox/js/lightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/js/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
@@ -432,29 +434,33 @@
   <script src="assets/js/main.js"></script>
 
 
-   <script>
-  $(document).ready(function () {
-    $(".blog-list.owl-carousel").owlCarousel({
-      loop: true,
-      margin: 10,
-      nav: true,
-      dots: true,
-      autoplay: true,
-      autoplayTimeout: 5000,
-      autoplayHoverPause: true,
-      navText: [
-        '<i class="bi bi-chevron-left"></i>',
-        '<i class="bi bi-chevron-right"></i>'
-      ],
-      responsive: {
-        0: { items: 1 },
-        768: { items: 1 },
-        992: { items: 2 },
-        1200: { items: 3 }
-      }
+  <script>
+    $(document).ready(function() {
+      $(".blog-list.owl-carousel").owlCarousel({
+        loop: true,
+        margin: 10,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        autoplayHoverPause: true,
+        responsive: {
+          0: {
+            items: 1
+          },
+          768: {
+            items: 1
+          },
+          992: {
+            items: 2
+          },
+          1200: {
+            items: 3
+          }
+        }
+      });
     });
-  });
-</script>
+  </script>
 
 </body>
 
