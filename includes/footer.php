@@ -5,23 +5,23 @@
    <div class="col-lg-3 col-md-6 col-6 footer-links">
             <h4>QUICK LINKS</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About Us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Properties</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about-us.php">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="properties.php">Properties</a></li>
               <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">NRI</a></li> -->
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Media</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Career</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Our Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="media.php">Media</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="career.php">Career</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Management-team.php">Management Team</a></li>
             </ul>
           </div>
           <div class="col-lg-2 col-md-6 col-6 footer-links">
             <h4>OUR SERVICES</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Retail</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Commercial</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Residential</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Land</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Warehouse</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Investment</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="properties.php">Retail</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="properties.php">Commercial</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="residential-properties.php">Residential</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Land.php">Land</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="warehouse-properties.php">Warehouse</a></li>
+              
             </ul>
           </div>
 
@@ -33,7 +33,7 @@
               <a href="tel: 08340703433">  08340703433</a></li>
               <li><i class="bx bx-chevron-right"></i>  <a href="tel:+91-9234570001">+91-8340703433</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="mailto:info@.co.in">info@.co.in</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="mailto:"></a></li>
+              <!-- <li><i class="bx bx-chevron-right"></i><a href="mailto:"></a></li> -->
             </ul>
           </div>
 
