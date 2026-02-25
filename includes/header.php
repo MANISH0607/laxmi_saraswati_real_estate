@@ -38,7 +38,7 @@
       <div class="col-lg-4 col-4 col-md-4">
         <div class="logo">
           <a href="index.php">
-            <img src="assets/img/uploads/logo.jpg" alt="Company Logo" class="img-fluid">
+            <img src="assets/img/uploads/logo.jpg" alt="commercial property in patna" class="img-fluid">
           </a>
         </div>
       </div>
@@ -83,15 +83,15 @@
 
             <!-- Social Icons in Navbar -->
             <div class="social-links d-lg-none d-md-none d-sm-none">
-              <a href="https://www.facebook.com/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="https://twitter.com/" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="https://www.pinterest.com/" target="_blank" class="pinterest"><i class="fa fa-pinterest"></i></a>
-              <a href="https://plus.google.com/" target="_blank" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="https://www.facebook.com/laxmisaraswatirealestate" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.youtube.com/@laxmiSarswati_realestate" target="_blank" class="twitter"><i class="fa fa-youtube"></i></a>
+              <a href="https://www.instagram.com/laxmisaraswati_realestate/" target="_blank" class="pinterest"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/rajesh-kumar-24b865397/" target="_blank" class="google-plus"><i class="fa fa-linkedin"></i></a>
             </div>
 
             <!-- Mobile Nav Toggle -->
             <i class="bi bi-list mobile-nav-toggle d-lg-none" id="mobile-toggle"></i>
-          <!-- </nav>
+            <!-- </nav>
           <div class="logo d-lg-none">
             <a href="index.php">
               <img src="assets/img/uploads/logo.jpg" alt="Company Logo" class="img-fluid">
@@ -444,7 +444,7 @@
 
   /* Mobile Portrait */
   @media (max-width: 576px) {
-  
+
     .logo {
       text-align: start;
       margin-bottom: 5px;

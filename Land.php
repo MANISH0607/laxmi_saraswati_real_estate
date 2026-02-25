@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>Plots  || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Land and Plots for Sale in Patna Bihar | Laxmi Saraswati Real Estate</title>
+    <meta content="Explore premium land and plots for sale in Patna, Bihar with Laxmi Saraswati Real Estate. Find residential plots, investment land, and open plots in prime locations." name="description">
+    <meta content="land for sale in Patna, plots for sale in Patna Bihar, residential plots in Patna, buy land in Patna Bihar, plots in Bihar, for sale open plots in Patna, investment plots in Patna, real estate land Patna, residential land Bihar, plot investment Patna Bihar, land property in Patna" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

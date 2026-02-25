@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>WARE HOUSE || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Warehouse & Industrial Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
+    <meta content="Discover warehouse and industrial properties for sale in Patna, Bihar with Laxmi Saraswati Real Estate. Find large warehouses, storage facilities, industrial land." name="description">
+    <meta content="warehouse properties in Patna, industrial property in Patna Bihar, warehouse for sale in Patna, industrial space Bihar, storage warehouse Patna, logistics warehouse in Bihar, warehouse land in Patna, commercial warehouse Patna, industrial property for sale Bihar, warehouse real estate Patna, industrial plots Patna Bihar" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

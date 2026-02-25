@@ -7,9 +7,9 @@
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<?php include('default.php'); ?>
-	<title>CONTACT US || <?php echo $heading; ?></title>
-	<meta content="" name="description">
-	<meta content="" name="keywords">
+	<title>Contact Laxmi Saraswati Real Estate | Property Dealer in Patna Bihar</title>
+	<meta content="Contact Laxmi Saraswati Real Estate for trusted property buying, selling, and investment in Patna and Bihar. Get expert support and property details today." name="description">
+	<meta content="contact Laxmi Saraswati Real Estate, property dealer contact Patna, real estate office Patna Bihar, plot sale inquiry Bihar, land property contact Patna, real estate phone number Bihar, property consultation Patna, real estate support Bihar, commercial property inquiry Patna, residential plot booking Bihar" name="keywords">
 	<!-- Favicons -->
 	<link href="assets/img/favicon.png" rel="icon">
 	<link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
@@ -48,29 +48,30 @@
 				<div class="col-12 col-lg-4 my-2" data-aos="fade-in" data-aos-duration="2000">
 					<div class="p-4 " id="contact-signnn">
 						<div class="text-center">
-							<img src="assets/img/contact/email.png" width="40px" alt="">
+							<img src="assets/img/contact/email.png" width="40px" alt="email us">
 						</div>
 						<div class="d-flex justify-content-center">
 							<div>
 								<h4 class="text-center text-slate-contact">Mail Us</h4>
-								<a href="mailto:info.@gmail.com " class="footerList contact-font text-center my-2">
-									email.com </a>
+								<a href="mailto:info.@gmail.com " class="footerList text-black contact-font text-center my-2">
+									
+info@.co.in</a>
 							</div>
 						</div>
 						<div>
-							<a class="inside-container-button" title="click me" href="mailto:info.urmichand@gmail.com ">Mail Me</a>
+							<a class="inside-container-button" title="click me" href="mailto:info@.co.in ">Mail Me</a>
 						</div>
 					</div>
 				</div>
 				<div class="col-12 col-lg-4 my-2" data-aos="fade-in" data-aos-duration="2000">
 					<div class="p-4 " id="contact-signnn">
 						<div class="text-center">
-							<img src="assets/img/contact/telephone.png" width="40px" alt="">
+							<img src="assets/img/contact/telephone.png" width="40px" alt="mobile number">
 						</div>
 						<div class="d-flex justify-content-center">
 							<div>
 								<h4 class="text-center text-slate-contact">Call Us</h4>
-								<a href="tel:+91 83407 03433" class=" footerList contact-font text-center my-2">
+								<a href="tel:+91 83407 03433" class=" footerList text-black contact-font text-center my-2">
 									+91 83407 03433</a>
 							</div>
 						</div>
@@ -82,12 +83,12 @@
 				<div class="col-12 col-lg-4 my-2" data-aos="fade-in" data-aos-duration="2000">
 					<div class="p-4 " id="contact-signnn">
 						<div class="text-center">
-							<img src="assets/img/contact/png-clipart.png" width="40px" alt="">
+							<img src="assets/img/contact/png-clipart.png" width="40px" alt="Phone Number">
 						</div>
 						<div class="d-flex justify-content-center">
 							<div>
 								<h4 class="text-center text-slate-contact">Address</h4>
-								<a href="javascript:void(0);" class=" footerList contact-font text-center my-2">
+								<a href="javascript:void(0);" class="text-black footerList contact-font text-center my-2">
 									Pillar No. 93, Post Office Police Station NH-83,Railway Crossing, Opposite Rahimpur, Parsa Bazar, Patna, Bihar 804453</a>
 							</div>
 						</div>
@@ -178,7 +179,7 @@
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
 					<div>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12037.190966736323!2d85.09973267552483!3d25.541455300000035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f2a7ce1959fd77%3A0x5c5346cace166b7d!2sParsa%20Bazar%20Post%20Office!5e1!3m2!1sen!2sin!4v1761735158164!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12037.190966736323!2d85.09973267552483!3d25.541455300000035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f2a7ce1959fd77%3A0x5c5346cace166b7d!2sParsa%20Bazar%20Post%20Office!5e1!3m2!1sen!2sin!4v1761735158164!5m2!1sen!2sin" width="100%" height="620" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 				</div>
 			</div>

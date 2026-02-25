@@ -49,7 +49,7 @@
           </div>
           <div class="col-12 col-md-6 d-flex  justify-content-center ">
             <div class="thimg">
-              <img src="./assets/images/Contact/thanku-p.png" class="w-thanks-img" alt="">
+              <img src="./assets/images/Contact/thanku-p.png" class="w-thanks-img" alt="buy property in patna">
             </div>
           </div>
         </div>

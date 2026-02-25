@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>Media || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Media Gallery | Laxmi Saraswati Real Estate Patna Bihar</title>
+    <meta content="Explore the media gallery of Laxmi Saraswati Real Estate featuring property photos, project updates, site images, and real estate activities in Patna Bihar." name="description">
+    <meta content="laxmi saraswati real estate, Real estate in Patna Bihar, Property photos Bihar, Land project Patna, Plot sale in Bihar, Real estate company bihar, Property dealer Patna, Residential plots Bihar, commercial property bihar, real estate dealer Patna" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

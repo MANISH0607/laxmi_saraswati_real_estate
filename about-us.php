@@ -7,9 +7,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <?php include('default.php'); ?>
-  <title>About Us || <?php echo $heading; ?></title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>About Us | Laxmi Saraswati Real Estate – Trusted Real Estate Company in Bihar</title>
+  <meta content="Laxmi Saraswati Real Estate firm in Bihar, known for integrity, innovation, and comprehensive property solutions including consulting, land procurement, plot sale planning." name="description">
+  <meta content="Laxmi Saraswati Real Estate, About Laxmi Saraswati Real Estate, real estate company in Patna, real estate company in Bihar, property consultants in Patna, trusted property dealer Bihar, land acquisition services Patna, real estate company Bihar, residential property services Patna, commercial property consultants Bihar" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -48,39 +48,39 @@
     <!-- ======= property Section ======= -->
 
     <div class="col-md-12 text-center">
-            <h4>About Us</h4>
-            <hr class="dividercenter">
-        </div>
+      <h4>About Us</h4>
+      <hr class="dividercenter">
+    </div>
 
-        
-        <div class="row">
-         <div class="col-md-8 mb-4">
-        
-            <p>Laxmi Saraswati Real Estate has become a trusted name in the Indian real estate market, especially in the eastern region. In Bihar, it is recognized as a leading brand known for integrity, innovation, and customer satisfaction. With a 
-              focus on providing integrated real estate solutions, the company has emerged as one of the fastest-growing firms in property development and land acquisition.</p>
-  
-            <p>Our comprehensive range of services includes real estate consulting, marketing, and management of large-scale residential and commercial projects. We also specialize in retail, leisure, entertainment, hospitality, and warehouse developments—offering 
-              end-to-end support for clients across various sectors.</p>
-  
-            <p>From land procurement and planning to advertising strategy, site sales management, payment collection, and documentation, we deliver seamless real estate 
-              solutions at every stage of development. Our commitment is to help clients realize their property goals efficiently and transparently.</p>
-          </div>
 
-          <div class="col-md-4 mb-4">
-            <img src="assets/img/home/Apartments-build.jpg" class="w-100">
-          </div>
+    <div class="row">
+      <div class="col-md-8 mb-4">
 
-          <div class="col-md-4 mb-4">
-            <img src="assets/img/home/Apartments-build.jpg" class="w-100">
-          </div>
-          <div class="col-md-8 mb-4">
-          <p>Laxmi Saraswati Real Estate has built a strong presence in India’s real estate market, especially across the eastern region. In Bihar, our name has become a symbol of trust and quality. Through our integrated real estate services, we’ve grown into one of the region’s fastest-rising property and land acquisition companies.</p>
+        <p>Laxmi Saraswati Real Estate has become a trusted name in the Indian real estate market, especially in the eastern region. In Bihar, it is recognized as a leading brand known for integrity, innovation, and customer satisfaction. With a
+          focus on providing integrated real estate solutions, the company has emerged as one of the fastest-growing firms in property development and land acquisition.</p>
 
-          <p>We offer complete real estate solutions including consulting, marketing, and management of large-scale housing and commercial projects. Our work spans retail, leisure, entertainment, hospitality, and warehouse spaces. From land procurement and planning to advertising strategy, site sales, payment collection, and documentation — we manage every detail with expertise and dedication.</p>
+        <p>Our comprehensive range of services includes real estate consulting, marketing, and management of large-scale residential and commercial projects. We also specialize in retail, leisure, entertainment, hospitality, and warehouse developments—offering
+          end-to-end support for clients across various sectors.</p>
 
-          </div>
-        </div>
+        <p>From land procurement and planning to advertising strategy, site sales management, payment collection, and documentation, we deliver seamless real estate
+          solutions at every stage of development. Our commitment is to help clients realize their property goals efficiently and transparently.</p>
       </div>
+
+      <div class="col-md-4 mb-4">
+        <img src="assets/img/home/Apartments-build.jpg" class="w-100">
+      </div>
+
+      <div class="col-md-4 mb-4">
+        <img src="assets/img/home/Apartments-build.jpg" class="w-100">
+      </div>
+      <div class="col-md-8 mb-4">
+        <p>Laxmi Saraswati Real Estate has built a strong presence in India’s real estate market, especially across the eastern region. In Bihar, our name has become a symbol of trust and quality. Through our integrated real estate services, we’ve grown into one of the region’s fastest-rising property and land acquisition companies.</p>
+
+        <p>We offer complete real estate solutions including consulting, marketing, and management of large-scale housing and commercial projects. Our work spans retail, leisure, entertainment, hospitality, and warehouse spaces. From land procurement and planning to advertising strategy, site sales, payment collection, and documentation — we manage every detail with expertise and dedication.</p>
+
+      </div>
+    </div>
+    </div>
     </section>
 
     <!-- ======= mission Section ======= -->
@@ -123,7 +123,7 @@
                 <div class="col-md-8">
                   <div class="content">
                     <ul>
-                     <li><strong>Customers :-</strong>&nbsp;We deliver true satisfaction with fast responses and genuinely attentive service.</li>
+                      <li><strong>Customers :-</strong>&nbsp;We deliver true satisfaction with fast responses and genuinely attentive service.</li>
 
                       <li><strong>Trust :-</strong>&nbsp;Built on honesty and transparency—our foundation for smooth, confident
                         business operations.</li>
@@ -139,7 +139,7 @@
                   </div>
                 </div>
                 <div class="col-md-4 text-center">
-                  <img src="assets/img/About/core-value.png" class="img-fluid w-100 h-100" alt="Core Values">
+                  <img src="assets/img/About/core-value.png" class="img-fluid w-100 h-100" alt="real estate company in bihar">
                 </div>
               </div>
             </div>
@@ -151,7 +151,7 @@
       </div>
     </section>
 
-      <!-- start -->
+    <!-- start -->
     <div class="call-do-action-area">
       <div class="container">
         <div class="row">

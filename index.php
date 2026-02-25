@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <?php include('default.php'); ?>
-  <title>Home || <?php echo $heading; ?></title>
+  <title>Best Real Estate Company in Patna Bihar – Laxmi Saraswati Real Estate</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -64,7 +64,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h4>Laxmi Saraswati Real Estate</h4>
+            <h1>Best Real Estate Company in Patna Bihar – Laxmi Saraswati Real Estate</h1>
             <hr class="divider">
             <p>Laxmi Saraswati Real Estate is synonymous with the real estate marketing in India, particularly in the
               eastern region, on the back of increased realty transactions taking place in this part of the country. In

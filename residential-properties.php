@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>RESIDENTIAL || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Residential Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
+    <meta content="Discover premium residential properties in Patna, Bihar with Laxmi Saraswati Real Estate. Find flats, houses, and residential projects in prime locations with modern amenities and excellent investment opportunities." name="description">
+    <meta content="residential properties in Patna, flats for sale in Patna Bihar, residential projects in Patna, house for sale in Patna, buy flat in Patna Bihar, residential real estate Patna, apartments in Patna Bihar, new residential projects in Patna, property in Patna, for sale residential investment in Patna, luxury flats in Patna Bihar, best residential property in Patna" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

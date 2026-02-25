@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>Management Team || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Management Team | Laxmi Saraswati Real Estate – Leadership & Vision in Property Services</title>
+    <meta content="Managing Director Rajesh Kumar — driving innovation, strategic property marketing, and development across residential and commercial real estate sectors." name="description">
+    <meta content="Laxmi Saraswati Real Estate management team, real estate leadership Patna, Rajesh Kumar Managing Director, real estate company leadership Bihar, Laxmi Saraswati Real Estate executives, property marketing leadership team, real estate vision and strategy Patna, real estate management and planning team" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

@@ -7,9 +7,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
-    <title>Commercial / Retail || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Commercial Retail Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
+    <meta content="Explore premium commercial and retail properties in Patna, Bihar. Find commercial buildings, and investment-ready commercial projects in prime locations." name="description">
+    <meta content="commercial retail properties in Patna, retail space for sale in Patna, commercial property in Bihar, shops for sale in Patna, retail shops in Bihar, commercial real estate Patna, shop space in Patna Bihar, commercial investment property Patna, retail property in Patna Bihar, commercial projects in Patna, buy retail shop in Patna, commercial space for business Patna" name="keywords">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
@@ -34,8 +34,8 @@
 
     <!-- ======= Banner Section ======= -->
     <section id="aboutbanner"
-style="background: url(assets/img/Banner/4.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
-       <div class="container-fluid p-0">
+        style="background: url(assets/img/Banner/4.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
+        <div class="container-fluid p-0">
             <h1> Commercial / Retail</h1>
 
         </div>
@@ -43,7 +43,7 @@ style="background: url(assets/img/Banner/4.png);background-size: cover; backgrou
     <!-- End Banner -->
     <main id="main">
 
-     <div class="col-md-12 text-center">
+        <div class="col-md-12 text-center">
             <h4>Commercial / Retail</h4>
             <hr class="dividercenter">
         </div>
@@ -64,7 +64,7 @@ style="background: url(assets/img/Banner/4.png);background-size: cover; backgrou
                         <div class="recent-box">
                             <img src="./assets/img/plots/5.png">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -73,7 +73,7 @@ style="background: url(assets/img/Banner/4.png);background-size: cover; backgrou
                         <div class="recent-box">
                             <img src="./assets/img/plots/2.png">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -428,7 +428,7 @@ style="background: url(assets/img/Banner/4.png);background-size: cover; backgrou
                         <div class="wow zoomInRight" data-aos-duration="3000">
                             <img src="" title="Pin Home Image"
                                 style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;"
-                                alt="Pin Home Image">
+                                alt="buy property in patna">
                         </div>
 
                     </div>

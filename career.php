@@ -4,23 +4,23 @@
 <head>
 
 
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <?php include('default.php'); ?>
-    <title>Career || <?php echo $heading; ?></title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-    <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<?php include('default.php'); ?>
+	<title>Careers at Laxmi Saraswati Real Estate | Jobs in Real Estate Patna Bihar</title>
+	<meta content="Join Laxmi Saraswati Real Estate and build your career in real estate industry. Explore job opportunities in sales, marketing, site management, and property consulting" name="description">
+	<meta content="Laxmi Saraswati Real Estate careers, real estate jobs Patna Bihar, property dealer jobs Bihar, sales executive jobs real estate Patna, real estate career opportunities Bihar, property consultant jobs Patna, real estate company hiring Bihar, marketing jobs real estate Patna, land property jobs Bihar, jobs at Laxmi Saraswati Real Estate" name="keywords">
+	<!-- Favicons -->
+	<link href="assets/img/favicon.png" rel="icon">
+	<link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="">
-    <!-- Vendor CSS Files -->
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="">
+	<!-- Vendor CSS Files -->
 
-    <!-- Main CSS File -->
-    <?php include('includes/css.php'); ?>
+	<!-- Main CSS File -->
+	<?php include('includes/css.php'); ?>
 
 
 
@@ -29,18 +29,19 @@
 
 <body>
 
-  <?php include('includes/header.php'); ?>
+	<?php include('includes/header.php'); ?>
 
 
- <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" 
+	<!-- ======= Banner Section ======= -->
+	<section id="aboutbanner"
 
-  style="background: url(assets/img/Banner/1.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">    <div class="container-fluid p-0">
-      <h1>Career</h1>
-      
-    </div>
-  </section>
-  <!-- End Banner -->
+		style="background: url(assets/img/Banner/1.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
+		<div class="container-fluid p-0">
+			<h1>Career</h1>
+
+		</div>
+	</section>
+	<!-- End Banner -->
 
 
 
@@ -128,33 +129,33 @@
 		</div>
 	</div>
 
-	
-        <!-- start -->
-    <div class="call-do-action-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="dued-section-title white upper mb-30">
-              <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
-              <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
-                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
-            </div>
-            <div class="new-button ">
-              <a href="contact.php">Contact Us</a>
-            </div>
-          </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-3 man-sec">
-            <div class="wow zoomInRight" data-aos-duration="3000">
-              <!-- <img src="" title=""
-                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
-            </div>
 
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- end -->
+	<!-- start -->
+	<div class="call-do-action-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7">
+					<div class="dued-section-title white upper mb-30">
+						<h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
+						<p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
+							– Have questions or need assistance? Contact us today for expert guidance and support.</p>
+					</div>
+					<div class="new-button ">
+						<a href="contact.php">Contact Us</a>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+				<div class="col-md-3 man-sec">
+					<div class="wow zoomInRight" data-aos-duration="3000">
+						<!-- <img src="" title=""
+                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end -->
 	<!--==================================================-->
 	<!-- Start Contact Location Section -->
 	<!--===================================================-->
@@ -236,24 +237,24 @@
 
 
 
-  <?php include('includes/footer.php'); ?>
+	<?php include('includes/footer.php'); ?>
 
-  <!-- Back to Top -->
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
-    <i class="bi bi-arrow-up-short"></i>
-  </a>
+	<!-- Back to Top -->
+	<a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+		<i class="bi bi-arrow-up-short"></i>
+	</a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+	<!-- Vendor JS Files -->
+	<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+	<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+	<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+	<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+	<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+	<script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+	<!-- Main JS -->
+	<script src="assets/js/main.js"></script>
 </body>
 
 </html>
