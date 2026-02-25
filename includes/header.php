@@ -77,9 +77,11 @@
                 </ul>
               </li>
 
-              <li><a href="career.php">Career</a></li>
-              <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
-            </ul>
+          <li><a href="contact.php">Contact Us</a></li>
+
+          
+        </ul>
+        
 
             <!-- Social Icons in Navbar -->
             <div class="social-links d-lg-none d-md-none d-sm-none">
