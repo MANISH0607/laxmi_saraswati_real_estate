@@ -33,9 +33,10 @@
 
 
 	<!-- ======= Banner Section ======= -->
-	<section id="aboutbanner" style="background: url(assets/img/banner3-5-min.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
-		<div class="container-fluid p-0">
-			<h1>CONTACT US</h1>
+	<section id="aboutbanner" 
+   style="background: url(assets/img/Banner/contact-hero.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 80px;padding: 190px 0px 100px 0px; ">		
+<div class="container-fluid p-0">
+			<h1></h1>
 
 		</div>
 	</section>
@@ -149,7 +150,7 @@
 										<div class="outer-box">
 											<div class="inner-box1 d-flex justify-content-around  align-items-center "
 												style="border:0.2px solid black;padding: 8px 10px;border-radius:10px">
-												<span class="text-black fw-bolder">Enter Captcha:-</span>
+												<span class="text-black fw-bolder">Captcha:-</span>
 												<div class="captcha-box-in d-flex align-items-center ">
 													<div class="in-colo">
 														<span id="first"></span>

@@ -59,7 +59,7 @@
   <div class="bottom-f">
     <div class="container">
       <div class="copyright">
-        &copy; <?php echo date('Y'); ?> Laxmi Saraswati Real Estate Management Pvt. Ltd.
+        &copy; <?php echo date('Y'); ?> Laxmi Saraswati Real Estate.
       </div>
     </div>
   </div>

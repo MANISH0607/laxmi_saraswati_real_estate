@@ -32,17 +32,20 @@
   <?php include('includes/header.php'); ?>
 
   <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" style="
-      background: url('assets/img/banner3-5-min.png') no-repeat center center / cover;
-      position: relative;
-      width: 100%;">
-    <div class="container-fluid p-0 text-center text-white">
+  <section id="aboutbanner" 
+   style="background: url(assets/img/Banner/1.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
+   <div class="container-fluid p-0 text-center text-white">
       <h1>MANAGEMENT TEAM</h1>
     </div>
   </section>
   <!-- End Banner -->
 
   <main id="main">
+
+   <div class="col-md-12 text-center">
+            <h4>MANAGEMENT TEAM</h4>
+            <hr class="dividercenter">
+        </div>
     <!-- ======= Management Section ======= -->
     <section class="property py-5">
       <div class="container">
@@ -72,12 +75,9 @@
         <!-- Extended Bio Section -->
         <div class="row align-items-start">
           <div class="col-md-3 text-center mb-4 mb-md-0">
-            <img src="assets/img/Management-Team/manage2.jpg" class="w-100 rounded shadow-sm" alt="Rajesh Kumar">
+            <img src="assets/img/Management-Team/55.jpg" class="w-100 rounded shadow-sm" alt="Rajesh Kumar">
             <h5 class="mt-3 py-2" style="
-                background: linear-gradient(180deg, #FE9C2E 20%, #7A5314 80%);
-                color: #fff;
-                border-radius: 4px;
-              ">
+                background: linear-gradient(180deg, #FE9C2E 20%, #7A5314 80%); color: #000000ff; border-radius: 6px;">
              Office
             </h5>
           </div>
@@ -104,18 +104,7 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
     <i class="bi bi-arrow-up-short"></i>
   </a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+ <?php include('includes/script.php');?>
 </body>
 
 </html>

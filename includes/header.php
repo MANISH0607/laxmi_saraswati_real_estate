@@ -1,23 +1,132 @@
 <!-- ======= Header ======= -->
 <header id="header">
 
-  <!-- ======= Navigation ======= -->
-  <div class="head-bt bg-light border-bottom">
-    <div class="container d-flex justify-content-md-between justify-content-end align-items-center">
-      <nav id="navbar" class="navbar navbar-moblie">
+
+  <!-- ======= Top Bar ======= -->
+
+  <section id="topbar" class="d-flex align-items-center d-none d-md-block bg-dark text-white py-1">
+    <div class="container-fluid">
+      <div class="row align-items-center">
+
+        <!-- Address -->
+        <div class="col-lg-8 col-md-8">
+          <div class="scroll-text">
+            <span>
+              <strong>Patna Office Address:</strong> Pillar No. 93, Post Office Police Station NH-83,
+              Railway Crossing, Opposite Rahimpur, Parsa Bazar, Patna, Bihar 804453
+            </span>
+          </div>
+        </div>
+
+        <!-- Contact Numbers -->
+        <div class="col-lg-4 col-md-4 col-12 text-lg-end text-md-end text-center mt-2 mt-md-0">
+          <div class="topbar-contact">
+            <a href="tel:8340703433" class="text-decoration-none me-2"><i class="fa fa-phone" aria-hidden="true"></i>8340703433</a>
+            <a href="tel:08340703433" class="text-decoration-none"><i class="fa fa-phone" aria-hidden="true"></i>08340703433</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Logo + Navbar ======= -->
+  <div class="container">
+    <div class="row align-items-center">
+
+      <!-- Logo -->
+      <div class="col-lg-4 col-4 col-md-4">
+        <div class="logo">
+          <a href="index.php">
+            <img src="assets/img/uploads/logo.jpg" alt="Company Logo" class="img-fluid">
+          </a>
+        </div>
+      </div>
+
+      <!-- Navigation -->
+
+      <div class="col-lg-8 col-8 col-md-8">
+        <div class=" align-items-center">
+          <nav id="navbar" class="navbar navbar-mobile">
+            <ul>
+              <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+
+              <li class="dropdown">
+                <a href="#"><span>Company</span> <i class="bi bi-chevron-down"></i></a>
+                <ul class="sub-menu">
+                  <li><a href="about-us.php">About Us</a></li>
+                  <li><a href="Management-Team.php">Management Team</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a href="#"><span>Properties</span> <i class="bi bi-chevron-down"></i></a>
+                <ul class="sub-menu">
+                  <li><a href="properties.php">Commercial / Retail</a></li>
+                  <li><a href="residential-properties.php">Residential</a></li>
+                  <li><a href="Land.php">Land</a></li>
+                  <li><a href="warehouse-properties.php">Warehouse</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a href="#"><span>Media</span> <i class="bi bi-chevron-down"></i></a>
+                <ul class="sub-menu">
+                  <li><a href="media.php">News Image</a></li>
+                  <li><a href="media.php">Videos</a></li>
+                </ul>
+              </li>
+
+              <li><a href="career.php">Career</a></li>
+              <li><a href="contact.php"><i class="fa fa-phone" aria-hidden="true"></i> Contact</a></li>
+            </ul>
+
+            <!-- Social Icons in Navbar -->
+            <div class="social-links d-lg-none d-md-none d-sm-none">
+              <a href="https://www.facebook.com/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://twitter.com/" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="https://www.pinterest.com/" target="_blank" class="pinterest"><i class="fa fa-pinterest"></i></a>
+              <a href="https://plus.google.com/" target="_blank" class="google-plus"><i class="fa fa-google-plus"></i></a>
+            </div>
+
+            <!-- Mobile Nav Toggle -->
+            <i class="bi bi-list mobile-nav-toggle d-lg-none" id="mobile-toggle"></i>
+          <!-- </nav>
+          <div class="logo d-lg-none">
+            <a href="index.php">
+              <img src="assets/img/uploads/logo.jpg" alt="Company Logo" class="img-fluid">
+            </a>
+          </div> -->
+        </div>
+      </div>
+
+
+
+
+      <!-- ======= Mobile Menu ======= -->
+
+      <div class="d-lg-none mobile-header" id="mobile-navmenu">
+
         <ul>
-          <li><a class="active" href="index.php">Home</a></li>
-          <li class="dropdown">
-            <a href="#"><span>Company</span> <i class="bi bi-chevron-down"></i></a>
-            <ul class="sub-menu">
+          <li><a href="index.php">Home</a></li>
+
+          <li class="dropdownMenu">
+            <div class="d-flex justify-content-between align-items-center submenu-toggle">
+              <a href="javascript:void(0);">Company</a>
+              <i class="fa fa-angle-down text-white"></i>
+            </div>
+            <ul class="subMenuItem">
               <li><a href="about-us.php">About Us</a></li>
-              <li><a href="Management-team.php">Management Team</a></li>
+              <li><a href="Management-Team.php">Management Team</a></li>
             </ul>
           </li>
 
-          <li class="dropdown">
-            <a href="#"><span>Properties</span> <i class="bi bi-chevron-down"></i></a>
-            <ul class="sub-menu">
+          <li class="dropdownMenu">
+            <div class="d-flex justify-content-between align-items-center submenu-toggle">
+              <a href="javascript:void(0);">Properties</a>
+              <i class="fa fa-angle-down text-white"></i>
+            </div>
+            <ul class="subMenuItem">
               <li><a href="properties.php">Commercial / Retail</a></li>
               <li><a href="residential-properties.php">Residential</a></li>
               <li><a href="Land.php">Land</a></li>
@@ -27,106 +136,30 @@
 
           <li><a href="career.php">Career</a></li>
 
-          <li class="dropdown">
-            <a href="#"><span>Media</span> <i class="bi bi-chevron-down"></i></a>
-            <ul class="sub-menu">
-              <li><a href="media.php">News Image</a></li>
+          <li class="dropdownMenu">
+            <div class="d-flex justify-content-between align-items-center submenu-toggle">
+              <a href="javascript:void(0);">Media</a>
+              <i class="fa fa-angle-down text-white"></i>
+            </div>
+            <ul class="subMenuItem">
+              <li><a href="media.php">Gallery</a></li>
               <li><a href="media.php">Videos</a></li>
             </ul>
           </li>
 
-          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
-
-        <!-- Mobile Nav Toggle Icon -->
-        <i class="bi bi-list mobile-nav-toggle d-lg-none" id="mobile-toggle"></i>
-
-      </nav><!-- .navbar -->
-    </div>
-  </div>
-
-  <!-- ======= Logo + Contact Info ======= -->
-  <div class="container-fluid">
-    <div class="row align-items-center">
-      <!-- Logo -->
-      <div class="col-lg-4 col-md-4">
-        <div class="logo">
-          <a href="index.php">
-            <img src="assets/img/uploads/logo.jpg" alt="Company Logo" class="img-fluid">
-          </a>
-        </div>
-      </div>
-
-      <!-- Contact Info -->
-      <div class="col-lg-8 col-md-8 d-none d-md-block text-end">
-        <h5><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA OFFICE</h5>
-        <p>
-          <a href="tel:+918340703433">+91 83407 03433</a> /
-          <a href="tel:+918340703433">+91 83407 03433</a><br>
-          <a href="mailto:blank@01gmail.com">Mail - blank@01gmail.com</a>
-        </p>
       </div>
     </div>
-  </div>
-
-  <!-- ======= Bottom Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center d-none d-md-block bg-dark text-white py-1">
-    <div class="container-fluid">
-      <div class="align-items-center justify-content-center">
-        <div class="scroll-text">
-          <span>
-            <strong>Patna Office Address:</strong> Pillar No. 93, Post Office Police Station NH-83,
-            Railway Crossing, Opposite Rahimpur, Parsa Bazar, Patna, Bihar 804453
-          </span>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <div class="d-lg-none mobile-header" id="mobile-navmenu">
-    <ul>
-      <li class="menu-items">Home</li>
-      <li class="dropdownMenu menu-items">
-        <div class="d-flex justify-content-between align-items-center submenu-toggle">
-          <a href="javascript:void(0);">Company</a>
-          <i class="fa fa-angle-up text-white"></i>
-        </div>
-        <ul class="subMenuItem">
-          <li><a href="">About Us</a></li>
-          <li><a href="">Management Team</a></li>
-        </ul>
-      </li>
-      <li class="dropdownMenu menu-items">
-        <div class="d-flex justify-content-between align-items-center submenu-toggle">
-          <a href="javascript:void(0);">Properities</a>
-          <i class="fa fa-angle-up text-white"></i>
-        </div>
-        <ul class="subMenuItem">
-          <li><a href="">Commercial / Retails</a></li>
-          <li><a href="">Residentials</a></li>
-          <li><a href="">Land</a></li>
-          <li><a href="">Warehouse</a></li>
-        </ul>
-      </li>
-      <li class="menu-items">Career</li>
-      <li class="dropdownMenu menu-items">
-        <div class="d-flex justify-content-between align-items-center submenu-toggle">
-          <a href="javascript:void(0);">Media</a>
-          <i class="fa fa-angle-up text-white"></i>
-        </div>
-        <ul class="subMenuItem">
-          <li><a href="">Gallery</a></li>
-          <li><a href="">Videos</a></li>
-        </ul>
-      </li>
-      <li class="menu-items">Contact Us</li>
-    </ul>
   </div>
 
 </header>
 
+
+
 <!-- ======= CSS ======= -->
 <style>
+  /* ===== Scroll Text Animation ===== */
   .scroll-text {
     white-space: nowrap;
     overflow: hidden;
@@ -138,24 +171,37 @@
     animation: scroll-left 25s linear infinite;
   }
 
-
-
   @keyframes scroll-left {
     0% {
-      transform: translate(0, 0);
+      transform: translateX(0);
     }
 
     100% {
-      transform: translate(-100%, 0);
+      transform: translateX(-100%);
     }
   }
 
-  /* ===== Scroll Hide Topbar ===== */
+  /* ===== Header & Topbar ===== */
   #topbar {
-    transition: top 0.4s ease, opacity 0.4s ease;
-    position: relative;
-    z-index: 998;
+    font-size: 14px;
   }
+
+  #topbar .scroll-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .topbar a {
+    color: #ffffff;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+  }
+
+  #topbar a:hover {
+    color: #000000ff;
+  }
+
 
   #topbar.hide-topbar {
     top: -50px;
@@ -167,100 +213,269 @@
     position: fixed;
     top: 0;
     width: 100%;
-    height: 220px;
     z-index: 997;
-    border-bottom: 2px solid #7a7a7aff;
+    background: #fff;
+    border-bottom: 2px solid #7a7a7a;
   }
 
-  body {
-    padding-top: 195px;
+
+
+  /* ===== Logo ===== */
+  .logo img {
+    max-height: 80px;
+    width: auto;
+    transition: transform 0.3s ease;
   }
 
-  /* ===== Mobile Nav ===== */
+  .logo img:hover {
+    transform: scale(1.05);
+  }
+
+  /* ===== Navbar ===== */
+  .navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 5px;
+  }
+
+  .navbar ul li {
+    position: relative;
+  }
+
+  .navbar ul li a {
+    color: #000;
+    font-weight: 550;
+    text-transform: uppercase;
+    padding: 8px 12px;
+    font-size: 16px;
+    display: inline-block;
+    transition: color 0.3s ease;
+  }
+
+  .navbar ul li a:hover,
+  .navbar .dropdown:hover>a {
+    color: #FE9C2E;
+  }
+
+  /* ===== Dropdown Menu ===== */
+  .navbar .dropdown ul {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    display: none;
+    background: #fff;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    border-radius: 6px;
+    min-width: 200px;
+    z-index: 1000;
+  }
+
+  .navbar .dropdown:hover ul {
+    display: block;
+  }
+
+  .navbar .dropdown ul li {
+    margin: 0;
+  }
+
+  .navbar .dropdown ul li a {
+    padding: 10px 20px;
+    color: #000;
+    display: block;
+  }
+
+  .navbar .dropdown ul li a:hover {
+    background: #f8f9fa;
+  }
+
+  .navbar .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #545454;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    margin-left: 20px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+  }
+
+  .navbar .social-links a:hover {
+    color: #007bff;
+  }
+
+
+  /* ===== Mobile Nav Toggle ===== */
   .mobile-nav-toggle {
     font-size: 28px;
     cursor: pointer;
     color: #000;
     transition: 0.3s;
     margin-left: 15px;
+    display: none;
   }
 
-  .mobile-nav-toggle.bi-x {
-    color: #000;
-  }
-
-  /* When active */
-  .navbar-mobile {
+  /* ===== Mobile Header ===== */
+  .mobile-header {
     position: fixed;
     top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.8);
-    transition: 0.3s;
+    right: -100%;
+    width: 80%;
+    height: 100%;
+    background: #111;
     z-index: 999;
+    padding: 20px;
+    transition: right 0.3s ease;
     overflow-y: auto;
   }
 
-  .navbar-mobile ul {
-    display: block;
-    background: #fff;
-    margin: 70px 15px;
-    padding: 20px;
-    border-radius: 8px;
+  .mobile-header.open {
+    right: 0;
   }
 
-  .navbar-mobile ul li {
+  .mobile-header ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .mobile-header li {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     margin-bottom: 10px;
   }
 
-  .navbar-mobile a {
-    display: block;
-    padding: 10px;
-    color: #000 !important;
+  .mobile-header a {
+    color: #fff;
+    text-decoration: none;
     font-weight: 500;
     text-transform: uppercase;
+    font-size: 16px;
   }
 
-  .navbar-mobile .dropdown ul {
+  .mobile-header .submenu-toggle {
+    cursor: pointer;
+  }
+
+  .subMenuItem {
     display: none;
-    padding-left: 20px;
+    margin-top: 8px;
+    margin-left: 15px;
   }
 
-  .navbar-mobile .dropdown-active {
+  .subMenuItem.Toggleopen {
     display: block;
   }
 
-  .navbar-mobile ul {
-    display: block;
-    position: absolute;
-    top: 55px;
-    right: 15px;
-    bottom: 15px;
-    left: 15px;
-    padding: 10px 0;
-    background-color: #fff;
-    overflow-y: auto;
-    transition: 0.3s;
+  .subMenuItem li a {
+    color: #ccc;
+    font-size: 15px;
   }
 
-  /* Hide nav list on desktop only in mobile view */
+  /* ===== Responsive Adjustments ===== */
+
+  /* Large Tablets */
+  @media (max-width: 1300px) {
+    .navbar ul li a {
+      font-size: 12px;
+      padding: 6px 10px;
+    }
+
+    .logo img {
+      max-height: 70px;
+    }
+
+    .topbar-contact a {
+      font-size: 13px;
+    }
+  }
+
+  /* Tablets */
   @media (max-width: 991px) {
     .navbar ul {
+      display: none;
+    }
+
+    .mobile-nav-toggle {
+      display: block;
+    }
+
+    .logo img {
+      max-height: 65px;
+    }
+
+    .topbar-contact a {
+      font-size: 10px;
+    }
+
+    body {
+      padding-top: 90px;
+    }
+
+    .navbar {
+      justify-content: end;
+    }
+  }
+
+  /* Mobile Landscape */
+  @media (max-width: 768px) {
+    .logo {
+      text-align: start;
+      margin-bottom: 5px;
+    }
+
+    .logo img {
+      max-height: 80px;
+    }
+
+    .navbar {
+      justify-content: end;
+    }
+
+
+  }
+
+  /* Mobile Portrait */
+  @media (max-width: 576px) {
+  
+    .logo {
+      text-align: start;
+      margin-bottom: 5px;
+    }
+
+    .logo img {
+      max-height: 80px;
+    }
+
+    .navbar {
+      justify-content: end;
+    }
+
+    .social-links {
       display: none;
     }
   }
 </style>
 
+
 <!-- ======= JS ======= -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const topbar = document.getElementById("topbar");
-    const header = document.getElementById("header");
-    const navbar = document.getElementById("navbar");
+    const navBtn = document.getElementById("mobile-toggle");
+    const navMenu = document.getElementById("mobile-navmenu");
+    const subMenus = document.querySelectorAll(".submenu-toggle");
+
     let lastScroll = 0;
 
-    // Scroll Hide Topbar
+    // ===== Hide Topbar on Scroll Down =====
     window.addEventListener("scroll", () => {
       const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
       if (currentScroll > lastScroll && currentScroll > 100) {
@@ -271,46 +486,21 @@
       lastScroll = currentScroll <= 0 ? 0 : currentScroll;
     });
 
-  });
-</script>
+    // ===== Mobile Menu Toggle =====
+    navBtn.addEventListener("click", () => {
+      navMenu.classList.toggle("open");
+      document.body.classList.toggle("no-scroll");
+    });
 
-<script>
-  const navBtn = document.getElementById('mobile-toggle');
-  const navmenu = document.getElementById('mobile-navmenu');
-  const subMenus = document.querySelectorAll(".submenu-toggle");
-  const subMenuItems = document.querySelectorAll('.subMenuItem');
-  navBtn.addEventListener("click", () => {
-    navmenu.classList.toggle('open');
-  })
-
-
-  // subMenus.forEach(toggle => {
-  //   toggle.addEventListener('click', () => {
-  //     const submenuList = toggle.nextElementSibling; // the <ul> right after the toggle
-  //     submenuList.classList.toggle('Toggleopen');
-  //   });
-  // });
-
-  subMenus.forEach(items => {
-    items.addEventListener('click', () => {
-      const submenuList = items.nextElementSibling;
-
-      // 1️⃣ Close all other submenus first
-      document.querySelectorAll('.subMenuItem').forEach(list => {
-        if (list !== submenuList) {
-          list.classList.remove('Toggleopen');
-        }
+    // ===== Submenu Toggle (Mobile) =====
+    subMenus.forEach(toggle => {
+      toggle.addEventListener("click", () => {
+        const submenuList = toggle.nextElementSibling;
+        document.querySelectorAll(".subMenuItem").forEach(list => {
+          if (list !== submenuList) list.classList.remove("Toggleopen");
+        });
+        submenuList.classList.toggle("Toggleopen");
       });
-
-      // 2️⃣ Toggle only the clicked submenu
-      submenuList.classList.toggle('Toggleopen');
     });
   });
-
-  // subMenus.forEach(items => {
-  //   items.addEventListener('click', () => {
-  //     const submenuList = items.nextElementSibling;
-      
-  //   })
-  // })
 </script>

@@ -40,7 +40,7 @@
             <img src="assets/img/Banner/banner_laxmi_real_estate.png" class="w-100">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/Banner/laxmi_saraswati_realstate_banner_two.png" class="w-100">
+            <img src="assets/img/Banner/real-estate.png" class="w-100">
           </div>
           <div class="carousel-item">
             <img src="assets/img/Banner/laxmi_saraswati_realstate_banner.png" class="w-100">
@@ -86,6 +86,100 @@
       </div>
     </section>
 
+
+
+      <section class="recent">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h4 class="head">RECENTS PROPERTIES</h4>
+          </div>
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/6.png">
+              <h6>Dumri</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/7.png">
+              <h6>Kothi</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/1.png">
+              <h6>Kura</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/2.png">
+              <h6>Chandi </h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/5.png">
+              <h6>Mapatpur</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/1.png">
+              <h6>Pothia</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/3.png">
+              <h6>Saraiya</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="recent-box">
+              <img src="./assets/img/plots/4.png">
+              <h6>Naya Chak</h6>
+              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
+              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
+            </div>
+          </div>
+
+          <div class="col-lg-12 text-center mt-4 mb-3">
+            <a href="properties.php" class="seemore">
+              SEE MORE PROPERTIES
+            </a>
+
+          </div>
+
+
+        </div>
+      </div>
+    </section>
+
+
+
     <!-- ======= RETAIL SERVICES Section ======= -->
     <section class="retailservice">
       <div class="container">
@@ -112,6 +206,7 @@
                 steady inquiry levels and strong leasing activity taking place in the country.</p>
             </div>
           </div>
+
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
               <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
@@ -121,6 +216,7 @@
                 tenants.</p>
             </div>
           </div>
+
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
               <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
@@ -129,37 +225,30 @@
                 necessary to successfully satisfy the needs of our land owner clients.</p>
             </div>
           </div>
-          <div class="col-lg-6 col-md-6 mb-3">
-            <div class="retailbox1">
-              <div class="row">
-                <div class="col-md-3 col-12 text-center"><img src="./assets/img/home/house-of-dream.jpg" class="w-100">
-                </div>
-                <div class="col-md-9">
+
+          <div class="col-lg-3 col-md-4 text-center mb-3">
+            <div class="retailbox">
+             <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
                   <h5>Ware House</h5>
                   <p>Laxmi Saraswati Real Estate Management is managing more than five lakh square feet (sqft) of
                     warehouse space at Patna in Bihar currently. Such is the demand of warehouse space that the company
                     is aiming to build another 1.5 lakh sqft space sooner.</p>
                 </div>
               </div>
-            </div>
-          </div>
 
-          <div class="col-lg-6 col-md-6 mb-3">
-            <div class="retailbox1">
-              <div class="row">
-                <div class="col-md-3 col-12 text-center"><img src="./assets/img/home/house-of-dream.jpg" class="w-100">
-                </div>
-                <div class="col-md-9">
+          <div class="col-lg-3 col-md-4 text-center mb-3">
+            <div class="retailbox">
+             <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
                   <h5>Investment</h5>
                   <p>Laxmi Saraswati Real Estate brings together local market knowledge and national scope, serving the
                     property needs of investors and developers, and providing a competitive advantage by capitalizing on
                     market conditions.</p>
                 </div>
               </div>
-            </div>
-          </div>
         </div>
       </div>
+      
+
     </section>
 
     <!-- ======= Counts Section ======= -->
@@ -210,95 +299,7 @@
       </div>
     </section> -->
     <!-- End Counts Section -->
-    <section class="recent">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h4 class="head">RECENTS PROPERTIES</h4>
-          </div>
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-              <img src="./assets/img/home/home_img.jpg">
-              <h6>ABC NAME</h6>
-              <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
-              <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
-            </div>
-          </div>
-
-          <div class="col-lg-12 text-center mt-4 mb-3">
-            <a href="properties.html" class="seemore">
-              SEE MORE PROPERTIES
-            </a>
-
-          </div>
-
-
-        </div>
-      </div>
-    </section>
+  
 
     <!-- start -->
     <div class="call-do-action-area">
@@ -311,7 +312,7 @@
                 – Have questions or need assistance? Contact us today for expert guidance and support.</p>
             </div>
             <div class="new-button ">
-              <a href="">Contact Us</a>
+              <a href="contact.php">Contact Us</a>
             </div>
           </div>
           <div class="col-md-2"></div>

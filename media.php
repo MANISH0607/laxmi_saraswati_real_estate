@@ -33,8 +33,9 @@
 
 
  <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" style="background: url(assets/img/banner3-5-min.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
-    <div class="container-fluid p-0">
+  <section id="aboutbanner" 
+style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
+   <div class="container-fluid p-0">
       <h1>Media</h1>
       
     </div>
@@ -43,13 +44,19 @@
 
  <main id="main">
 
+  <div class="col-md-12 text-center">
+            <h4>Media</h4>
+            <hr class="dividercenter">
+        </div>
+
+ 
  <section class="recent">
       <div class="container">
         <div class="row">
           
           <div class="col-md-3">
             <div class="recent-box">
-            <img src="assets/img/Trivantpuram-city-patna-bihar-small.jpg">
+            <img src="./assets/img/Management-Team/1.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
             
@@ -58,7 +65,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-            <img src="assets/img/Orchid-Empire-Patna-Bihar-small.jpg">
+            <img src="./assets/img/Management-Team/2.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
             
@@ -67,7 +74,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-            <img src="assets/img/shakuntalam-patna-bihar-small.jpg">
+            <img src="./assets/img/Management-Team/3.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
             
@@ -76,7 +83,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-            <img src="assets/img/Laxmi-Enclave-Patna-small.jpg">
+            <img src="./assets/img/Management-Team/4.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
             
@@ -85,13 +92,13 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-            <img src="assets/img/Royal-Residency-patna-bihar-small.jpg">
+            <img src="./assets/img/Management-Team/6.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
             
           </div>
           </div>
-
+<!-- 
           <div class="col-md-3">
             <div class="recent-box">
             <img src="assets/img/Alim-Heritage-patna-small.jpg">
@@ -170,7 +177,7 @@
             <img src="assets/img/KAUSHALYA-GARHAZIPUR-BIHAR-small.jpg">
             <h6>OFFICE</h6>
             <p><i class="fa fa-map-marker" aria-hidden="true"></i> Muzaffarpur, Bihar </p>
-          </div>
+          </div> -->
           </div>
 
         </div>

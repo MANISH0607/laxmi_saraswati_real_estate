@@ -36,7 +36,7 @@
 
   <!-- ======= Banner Section ======= -->
   <section id="aboutbanner"
-    style="background: url(assets/img/About/4.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
+    style="background: url(assets/img/Banner/5.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
     <div class="container-fluid p-0">
       <h1>About Us</h1>
 
@@ -46,25 +46,34 @@
 
   <main id="main">
     <!-- ======= property Section ======= -->
-    <section class="property">
-      <div class="container">
+
+    <div class="col-md-12 text-center">
+            <h4>About Us</h4>
+            <hr class="dividercenter">
+        </div>
+
+        
         <div class="row">
-          <div class="col-md-8 mb-4">
-            <p>Laxmi Saraswati Real Estate is synonymous with the real estate marketing in Indian, particularly in the
-              eastern region, on the back of increased transactions taking place in this part of the country. In Bihar,
-              it has achieved the status of a brand name. By offering integrated real estate services, it has emerged as
-              one of the fastest growing real estate and land acquiring company.</p>
-            <p>We provide an array of services like consulting, marketing and management of large scale housing and
-              commercial projects, including retail, leisure, entertainment & hospitality and warehouses. We provide
-              assistance when it comes to land procurement, planning, formulating advertisement strategies, site sales
-              management, collection of payments and documentation among other services.</p>
-              <p>We provide a complete range of real estate services that cover every stage of development — from initial planning to project completion. 
-                Our expertise spans consulting, marketing, and management of large-scale housing and commercial projects across sectors like retail, leisure, entertainment, hospitality, and warehousing. </p>
+         <div class="col-md-8 mb-4">
+        
+            <p>Laxmi Saraswati Real Estate has become a trusted name in the Indian real estate market, especially in the eastern region. In Bihar, it is recognized as a leading brand known for integrity, innovation, and customer satisfaction. With a 
+              focus on providing integrated real estate solutions, the company has emerged as one of the fastest-growing firms in property development and land acquisition.</p>
+  
+            <p>Our comprehensive range of services includes real estate consulting, marketing, and management of large-scale residential and commercial projects. We also specialize in retail, leisure, entertainment, hospitality, and warehouse developments—offering 
+              end-to-end support for clients across various sectors.</p>
+  
+            <p>From land procurement and planning to advertising strategy, site sales management, payment collection, and documentation, we deliver seamless real estate 
+              solutions at every stage of development. Our commitment is to help clients realize their property goals efficiently and transparently.</p>
           </div>
+
           <div class="col-md-4 mb-4">
             <img src="assets/img/home/Apartments-build.jpg" class="w-100">
           </div>
-          <div class="col-md-12">
+
+          <div class="col-md-4 mb-4">
+            <img src="assets/img/home/Apartments-build.jpg" class="w-100">
+          </div>
+          <div class="col-md-8 mb-4">
           <p>Laxmi Saraswati Real Estate has built a strong presence in India’s real estate market, especially across the eastern region. In Bihar, our name has become a symbol of trust and quality. Through our integrated real estate services, we’ve grown into one of the region’s fastest-rising property and land acquisition companies.</p>
 
           <p>We offer complete real estate solutions including consulting, marketing, and management of large-scale housing and commercial projects. Our work spans retail, leisure, entertainment, hospitality, and warehouse spaces. From land procurement and planning to advertising strategy, site sales, payment collection, and documentation — we manage every detail with expertise and dedication.</p>
@@ -141,6 +150,34 @@
         </div>
       </div>
     </section>
+
+      <!-- start -->
+    <div class="call-do-action-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7">
+            <div class="dued-section-title white upper mb-30">
+              <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
+              <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
+                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
+            </div>
+            <div class="new-button ">
+              <a href="contact.php">Contact Us</a>
+            </div>
+          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-3 man-sec">
+            <div class="wow zoomInRight" data-aos-duration="3000">
+              <!-- <img src="" title=""
+                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end -->
+
 
   </main><!-- End #main -->
 

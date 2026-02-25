@@ -33,148 +33,405 @@
 
 
  <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" style="background: url(assets/img/banner3-5-min.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%; ">
-    <div class="container-fluid p-0">
+  <section id="aboutbanner" 
+style="background: url(assets/img/Banner/2.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
+   <div class="container-fluid p-0">
       <h1> PLOTS</h1>
       
     </div>
   </section>
   <!-- End Banner -->
   <main id="main">
+
+   <div class="col-md-12 text-center">
+            <h4>PLOTS</h4>
+            <hr class="dividercenter">
+        </div>
     
-    <section class="recent">
+   <section class="recent">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/plots/1.png">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/plots/9.png">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/plots/8.png">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/plots/10.png">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/home/different.jpg">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/home/sell-jamin-1.jpg">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/home/different.jpg">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="./assets/img/home/sell-jamin-1.jpg">
+                            <h6>PROJECT NAME</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna</p>
+
+                        </div>
+                    </div>
+
+
+                    <!-- <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/bhagwati-courtyard-bhagalpur-bihar-small.jpg">
+                            <h6>Bhagwati Courtyard(Approx. 50000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  Bihar</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/GTM-Mall-bhagalpur-bihar-small.jpg">
+                            <h6>GTM Mall(Approx.1.85 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/laurel-mall-chennai-small.jpg">
+                            <h6>Laurel Mall(Approx.1.75 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Chennai</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/chankaya-mall-patna-bihar-small.jpg">
+                            <h6>Chankaya Mall(Approx.1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Brij-Saroj-Complex-patna-Bihar-small.jpg">
+                            <h6>Brij Saroj Complex(Approx.1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/GV-Mall-Patna-Bihar-small.jpg">
+                            <h6>GV Mall(Approx.1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/JD-Mall-Patna-Bihar-small.jpg">
+                            <h6>JD Mall(Approx.1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Legend-Plaza-Patna-Bihar-small.jpg">
+                            <h6>Legend Plaza(Approx. 40000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Monatasa-Patna-Bihar-small.jpg">
+                            <h6>Monatasa (Approx. 56000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Nutan-Plazza.png">
+                            <h6>Nutan Plaza (Approx. 65000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Orchid-Mall-Patna-Bihar-small.jpg">
+                            <h6>Orchid Mall (Approx. 60000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Patna-One-Patna-Bihar-small.jpg">
+                            <h6>Patna One (Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/p-mall-patna-bihar-small.jpg">
+                            <h6>P Mall(Approx. 1.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/pushpanjali-mall-patna-bihar-small.jpg">
+                            <h6>Pushpanjali Mall(Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/RC-Western-Mall-Patna-Bihar-small.jpg">
+                            <h6>RC Western Mall(Approx. 1.75 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/REPL-Patna-Bihar-small.jpg">
+                            <h6>REPL (Approx. 1.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/shailja-tower-patna-bihar-small.jpg">
+                            <h6>Sailja Tower (Approx. 50000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/the-mall-patna-bihar-small.jpg">
+                            <h6>The Mall (Approx. 1.75 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Vaishali-Mall-Patna-Bihar-small.jpg">
+                            <h6>Vaishali Mall(Approx. 2 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/vashundhra-metro-mall-patna-bihar-small.jpg">
+                            <h6>Vashundhra Metro Mall(Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/vision-mall-patna-bihar-small.jpg">
+                            <h6>Vision Mall (Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/vision-mall-patna-bihar-small (1).jpg">
+                            <h6>Upcomming Mall(Approx. 1.4 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/APR-City-Gaya-Bihar-small.jpg">
+                            <h6>APR City(Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/city-centre-haldia-west-bengal-small.jpg">
+                            <h6>City Centre @ Haldia(Approx. 2.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> West Bengal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/om-plaza-jamshedpur-jharkhand-small.jpg">
+                            <h6>OM Plaza(Approx. 50000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Avani-Riverside-Mall-Howrah-West-Bengal-small.jpg">
+                            <h6>Avani Riverside Mall(Approx. 6.25 Lakhs sft )</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> West Bengal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/AMP-vaisaakkhi-kolkata-west-bengal-small.jpg">
+                            <h6>AMP Vaisaakkhi(Approx. 1.8 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> West Bengal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/junction-mall-kolkata-west-bengal-small.jpg">
+                            <h6>Junction Mall(Approx. 1.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> West Bengal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/DRV-palace-muzaffarpur-bihar-small.jpg">
+                            <h6>DRB Palace(Approx. 2.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/dwarika-city-centre-muzaffarpur-bihar-small.jpg">
+                            <h6>Dwarika City Centre(Approx. 1.85 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bihar</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/City-Mall-36-Raipur-Chhatisgarh-small.jpg">
+                            <h6>City Mall 36(Approx. 3 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Raipur</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/city-centre-raipur-chattisgarh-small.jpg">
+                            <h6>City Centre(Approx. 4.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Chhattisgarh</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Bokaro-Steel-City-Jharkhand-small.jpg">
+                            <h6>Bokaro Steel City @ Jharkhand(Approx. 3 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Jharkhand</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Ozone-Galleria-Dhanbad-Jharkhand-small.jpg">
+                            <h6>Ozone Galleria (Approx. 3 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Galexia-Mall-Ranchi-Jharkhand-small.jpg">
+                            <h6>Galexia Mall(Approx. 1.25 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Panchwati-Tower-Ranchi-Jharkhand-small.jpg">
+                            <h6>Panchwati Tower(Approx. 1 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/Sandhya-Tower-Ranchi-Jharkhand-small.jpg">
+                            <h6>Sandhya Tower(Approx. 1.5 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Jharkhand</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/city-centre-siliguri-west-bengal-small.jpg">
+                            <h6>City Centre(Approx. 6 lac Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> West Bengal</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="recent-box">
+                            <img src="assets/img/city-mall-hazipur-bihar-small.jpg">
+                            <h6>City Mall(Approx. 70000 Sqft)</h6>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Hazipur, Bihar</p>
+                        </div>
+                    </div> -->
+
+                </div>
+            </div>
+        </section>
+
+        <!-- start -->
+    <div class="call-do-action-area">
       <div class="container">
         <div class="row">
-          
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Trivantpuram-city-patna-bihar-small.jpg">
-            <h6>Trivantpuram city</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-            
+          <div class="col-lg-7">
+            <div class="dued-section-title white upper mb-30">
+              <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
+              <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
+                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
+            </div>
+            <div class="new-button ">
+              <a href="contact.php">Contact Us</a>
+            </div>
           </div>
-          </div>
+          <div class="col-md-2"></div>
+          <div class="col-md-3 man-sec">
+            <div class="wow zoomInRight" data-aos-duration="3000">
+              <!-- <img src="" title=""
+                style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
+            </div>
 
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Orchid-Empire-Patna-Bihar-small.jpg">
-            <h6>Orchid Empire</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Patna, Bihar</p>
-            
           </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/shakuntalam-patna-bihar-small.jpg">
-            <h6>Shakuntalam</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-            
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Laxmi-Enclave-Patna-small.jpg">
-            <h6>Lakshmi Enclave</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-            
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Royal-Residency-patna-bihar-small.jpg">
-            <h6>Royal Residency</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-            
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Alim-Heritage-patna-small.jpg">
-            <h6>Alim Heritage</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-            
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Windsome-regency-patna-bihar-small.jpg">
-            <h6>Windsome Regency</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Patna, Bihar</p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Gulmohar-Bhagalpur-Bhar-small.jpg">
-            <h6>Gulmohar</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Bhagalpur, Bihar</p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Naulakha-Bhagalpur-Bihar-small.jpg">
-            <h6>Naulakha</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Bhagalpur, Bihar </p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/ashiana-royal-Hazipur-Bihar-small.jpg">
-            <h6>Ashiana Royal</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Hazipur, Bihar</p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/satya-enclave-hazipur-bihar-small.jpg">
-            <h6>Satya Enclave</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Hazipur, Bihar </p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Asha-Bihar-Muzaffarpur-Bihar-small.jpg">
-            <h6>Asha Bihar</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Muzaffarpur, Bihar </p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/Dasrath-Binda-Enclave-Muzaffarpur-Bihar-small (1).jpg">
-            <h6>Dasrath Binda Enclave</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Muzaffarpur, Bihar </p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/DRB-Palace-Muzaffarpur-Bihar-small.jpg">
-            <h6>DRB Palace</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Muzaffarpur, Bihar </p>
-          </div>
-          </div>
-
-          <div class="col-md-3">
-            <div class="recent-box">
-            <img src="assets/img/KAUSHALYA-GARHAZIPUR-BIHAR-small.jpg">
-            <h6>Kausalaya Garden</h6>
-            <p><i class="fa fa-map-marker" aria-hidden="true"></i> Muzaffarpur, Bihar </p>
-          </div>
-          </div>
-
         </div>
       </div>
-    </section>
+    </div>
+    <!-- end -->
 
   </main><!-- End #main -->
 
