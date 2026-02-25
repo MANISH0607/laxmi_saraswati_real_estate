@@ -37,13 +37,13 @@
       <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner" role="listbox">
           <div class="carousel-item active">
-            <img src="assets/img/Banner/banner_laxmi_real_estate.png" class="w-100">
+            <img src="assets/img/Banner/banner_laxmi_real_estate.png" alt="commercial property in patna" class="w-100">
           </div>
           <div class="carousel-item">
             <img src="assets/img/Banner/real-estate.png" class="w-100">
           </div>
           <div class="carousel-item">
-            <img src="assets/img/Banner/laxmi_saraswati_realstate_banner.png" class="w-100">
+            <img src="assets/img/Banner/laxmi_saraswati_realstate_banner.png" alt="buy property in patna" class="w-100">
           </div>
         </div>
         <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
@@ -96,7 +96,7 @@
           </div>
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/6.png">
+              <img src="./assets/img/plots/6.png" alt="commercial property in patna">
               <h6>Dumri</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -105,7 +105,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/7.png">
+              <img src="./assets/img/plots/7.png" alt="commercial property in patna">
               <h6>Kothi</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -114,7 +114,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/1.png">
+              <img src="./assets/img/plots/1.png" alt="commercial property in patna">
               <h6>Kura</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -123,7 +123,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/2.png">
+              <img src="./assets/img/plots/2.png" alt="buy property in patna">
               <h6>Chandi </h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -132,7 +132,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/5.png">
+              <img src="./assets/img/plots/5.png" alt="commercial property in patna">
               <h6>Mapatpur</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -141,7 +141,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/1.png">
+              <img src="./assets/img/plots/1.png" alt="commercial property in patna">
               <h6>Pothia</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -150,7 +150,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/3.png">
+              <img src="./assets/img/plots/3.png"  alt="commercial property in patna">
               <h6>Saraiya</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -159,7 +159,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/4.png">
+              <img src="./assets/img/plots/4.png" alt="commercial property in patna">
               <h6>Naya Chak</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -190,7 +190,7 @@
           </div>
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-              <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+              <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
               <h5>Retail Services</h5>
               <p>India is expected to garner foreign investment of $10 billion-$12 billion in the next five years in the
                 retail segment with the government’s decision to operationalize foreign direct investment (FDI) in
@@ -200,7 +200,7 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-              <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+              <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
               <h5>Commercial</h5>
               <p>Demand for office space is expected to thrive in the coming quarters and years on account of likely
                 steady inquiry levels and strong leasing activity taking place in the country.</p>
@@ -209,7 +209,7 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-              <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+              <img src="./assets/img/home/house-of-dream.jpg" alt="buy property in patna" class="w-50">
               <h5>Residential</h5>
               <p>We deal in housing projects including flats, apartments, houses, bungalows, villas etc. we have a team
                 performing background check, credit check, and reference check in the residential space for potential
@@ -219,7 +219,7 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-              <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+              <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
               <h5>Land</h5>
               <p>Laxmi Saraswati Real Estate provides the corporate resources, client support and brokerage expertise
                 necessary to successfully satisfy the needs of our land owner clients.</p>
@@ -228,7 +228,7 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-             <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+             <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
                   <h5>Ware House</h5>
                   <p>Laxmi Saraswati Real Estate Management is managing more than five lakh square feet (sqft) of
                     warehouse space at Patna in Bihar currently. Such is the demand of warehouse space that the company
@@ -238,7 +238,7 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-             <img src="./assets/img/home/house-of-dream.jpg" class="w-50">
+             <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
                   <h5>Investment</h5>
                   <p>Laxmi Saraswati Real Estate brings together local market knowledge and national scope, serving the
                     property needs of investors and developers, and providing a competitive advantage by capitalizing on
