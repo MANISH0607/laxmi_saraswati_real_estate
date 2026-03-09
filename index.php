@@ -7,17 +7,25 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <?php include('default.php'); ?>
-  <title>Best Real Estate Company in Patna Bihar – Laxmi Saraswati Real Estate</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
-
+  <title>Laxmi Saraswati Real Estate | Trusted Property Dealer in Patna, Bihar</title>
+  <meta name="description" content="Laxmi Saraswati Real Estate is a trusted real estate company in Patna, Bihar, offering residential plots, commercial properties, land investment opportunities, and complete property solutions with transparency and reliability.">
+  <meta name="keywords" content="property dealer in patna, real estate company in patna, real estate agent in patna bihar, property dealer in bihar, best real estate company in patna, real estate consultant in bihar, property broker near me real estate services in patna">
+  <meta name="robots" content="all" />
+  <meta property="og:title" content="Laxmi Saraswati Real Estate | Trusted Property Dealer in Patna, Bihar" />
+  <meta property="og:country_name" content="India" />
+  <meta property="og:phone_number" content="+91 9546489843 +91 8340703433" />
+  <meta property="og:description" content="Laxmi Saraswati Real Estate is a trusted real estate company in Patna, Bihar, offering residential plots, commercial properties, land investment opportunities, and complete property solutions with transparency and reliability." />
+  <meta name="rating" content="general" />
+  <meta property="og:url" content="https://laxmisarswati.com/" />
+  <meta property="og:image" content="https://laxmisarswati.com/assets/img/Banner/banner_laxmi_real_estate.png" />
+  <meta property="twitter:title" content="Laxmi Saraswati Real Estate | Trusted Property Dealer in Patna, Bihar" />
+  <meta property="twitter:description" content="Laxmi Saraswati Real Estate is a trusted real estate company in Patna, Bihar, offering residential plots, commercial properties, land investment opportunities, and complete property solutions with transparency and reliability" />
+  <meta name="robots" content="index, follow">
+  <meta property="og:street_address" content="Pillar No. 93, Post Office Police Station NH- 83 Railway Crossing Opposite Rahimpur Parsa Bazar Patna Bihar 804453" />
+  <meta name="twitter:image" content="https://laxmisarswati.com/assets/img/plots/7.png" />
+  
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="">
   <!-- Vendor CSS Files -->
 
   <!-- Main CSS File -->
@@ -76,11 +84,7 @@
               management, collection of payments and documentation among other services.</p>
           </div>
           <div class="col-md-4">
-            <iframe class="video" frameborder="0" allowfullscreen="1"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              title="YouTube video player"
-              src="https://www.youtube.com/embed/4OyQbGKOTQs?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=0&amp;enablejsapi=1&amp;widgetid=1"
-              id="widget2"></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/YeKCW2uKjQ4?si=Pwqeo1F6Z5FHHjeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
       </div>
@@ -88,7 +92,7 @@
 
 
 
-      <section class="recent">
+    <section class="recent">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -150,7 +154,7 @@
 
           <div class="col-md-3">
             <div class="recent-box">
-              <img src="./assets/img/plots/3.png"  alt="commercial property in patna">
+              <img src="./assets/img/plots/3.png" alt="commercial property in patna">
               <h6>Saraiya</h6>
               <p><i class="fa fa-map-marker" aria-hidden="true"></i> PATNA BIHAR</p>
               <a href="#" class="contact-btn"><i class="fa fa-mobile" aria-hidden="true"></i> Contact for Booking</a>
@@ -228,26 +232,26 @@
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-             <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
-                  <h5>Ware House</h5>
-                  <p>Laxmi Saraswati Real Estate Management is managing more than five lakh square feet (sqft) of
-                    warehouse space at Patna in Bihar currently. Such is the demand of warehouse space that the company
-                    is aiming to build another 1.5 lakh sqft space sooner.</p>
-                </div>
-              </div>
+              <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
+              <h5>Ware House</h5>
+              <p>Laxmi Saraswati Real Estate Management is managing more than five lakh square feet (sqft) of
+                warehouse space at Patna in Bihar currently. Such is the demand of warehouse space that the company
+                is aiming to build another 1.5 lakh sqft space sooner.</p>
+            </div>
+          </div>
 
           <div class="col-lg-3 col-md-4 text-center mb-3">
             <div class="retailbox">
-             <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
-                  <h5>Investment</h5>
-                  <p>Laxmi Saraswati Real Estate brings together local market knowledge and national scope, serving the
-                    property needs of investors and developers, and providing a competitive advantage by capitalizing on
-                    market conditions.</p>
-                </div>
-              </div>
+              <img src="./assets/img/home/house-of-dream.jpg" alt="commercial property in patna" class="w-50">
+              <h5>Investment</h5>
+              <p>Laxmi Saraswati Real Estate brings together local market knowledge and national scope, serving the
+                property needs of investors and developers, and providing a competitive advantage by capitalizing on
+                market conditions.</p>
+            </div>
+          </div>
         </div>
       </div>
-      
+
 
     </section>
 
@@ -299,7 +303,7 @@
       </div>
     </section> -->
     <!-- End Counts Section -->
-  
+
 
     <!-- start -->
     <div class="call-do-action-area">

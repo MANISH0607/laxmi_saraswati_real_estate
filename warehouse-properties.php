@@ -8,8 +8,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
     <title>Warehouse & Industrial Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
-    <meta content="Discover warehouse and industrial properties for sale in Patna, Bihar with Laxmi Saraswati Real Estate. Find large warehouses, storage facilities, industrial land." name="description">
-    <meta content="warehouse properties in Patna, industrial property in Patna Bihar, warehouse for sale in Patna, industrial space Bihar, storage warehouse Patna, logistics warehouse in Bihar, warehouse land in Patna, commercial warehouse Patna, industrial property for sale Bihar, warehouse real estate Patna, industrial plots Patna Bihar" name="keywords">
+    <meta name="description" content="Discover warehouse and industrial properties for sale in Patna, Bihar with Laxmi Saraswati Real Estate. Find large warehouses, storage facilities, industrial land.">
+    <meta name="keywords" content="warehouse properties in Patna, industrial property in Patna Bihar, warehouse for sale in Patna, industrial space Bihar, storage warehouse Patna, logistics warehouse in Bihar, warehouse land in Patna, commercial warehouse Patna, industrial property for sale Bihar, warehouse real estate Patna, industrial plots Patna Bihar">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
@@ -29,32 +29,32 @@
 
 <body>
 
-  <?php include('includes/header.php'); ?>
+    <?php include('includes/header.php'); ?>
 
 
- <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" 
-style="background: url(assets/img/Banner/5.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">    
-  <div class="container-fluid p-0">
+    <!-- ======= Banner Section ======= -->
+    <section id="aboutbanner"
+        style="background: url(assets/img/Banner/5.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
+        <div class="container-fluid p-0">
 
-      <h1>WARE HOUSE</h1>
-      
-    </div>
-  </section>
-  <!-- End Banner -->
-  <main id="main">
+            <h1>WARE HOUSE</h1>
+
+        </div>
+    </section>
+    <!-- End Banner -->
+    <main id="main">
 
 
-   <div class="col-md-12 text-center">
+        <div class="col-md-12 text-center">
             <h4>WARE HOUSE</h4>
             <hr class="dividercenter">
         </div>
-    
-    <section class="recent">
+
+        <section class="recent">
             <div class="container">
                 <div class="row">
 
-                  
+
                     <div class="col-md-3">
                         <div class="recent-box">
                             <img src="./assets/img/home/different.jpg">
@@ -68,7 +68,7 @@ style="background: url(assets/img/Banner/5.png);background-size: cover; backgrou
                         <div class="recent-box">
                             <img src="./assets/img/home/sell-jamin-1.jpg">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -77,7 +77,7 @@ style="background: url(assets/img/Banner/5.png);background-size: cover; backgrou
                         <div class="recent-box">
                             <img src="./assets/img/home/different.jpg">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -411,51 +411,51 @@ style="background: url(assets/img/Banner/5.png);background-size: cover; backgrou
 
 
         <!-- start -->
-    <div class="call-do-action-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="dued-section-title white upper mb-30">
-              <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
-              <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
-                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
-            </div>
-            <div class="new-button ">
-              <a href="contact.php">Contact Us</a>
-            </div>
-          </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-3 man-sec">
-            <div class="wow zoomInRight" data-aos-duration="3000">
-              <!-- <img src="" title=""
+        <div class="call-do-action-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="dued-section-title white upper mb-30">
+                            <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
+                            <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
+                                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
+                        </div>
+                        <div class="new-button ">
+                            <a href="contact.php">Contact Us</a>
+                        </div>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3 man-sec">
+                        <div class="wow zoomInRight" data-aos-duration="3000">
+                            <!-- <img src="" title=""
                 style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
+                        </div>
+
+                    </div>
+                </div>
             </div>
-
-          </div>
         </div>
-      </div>
-    </div>
-    <!-- end -->
-  </main><!-- End #main -->
+        <!-- end -->
+    </main><!-- End #main -->
 
-   <?php include('includes/footer.php'); ?>
+    <?php include('includes/footer.php'); ?>
 
-  <!-- Back to Top -->
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
-    <i class="bi bi-arrow-up-short"></i>
-  </a>
+    <!-- Back to Top -->
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+        <i class="bi bi-arrow-up-short"></i>
+    </a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

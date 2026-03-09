@@ -4,23 +4,23 @@
 <head>
 
 
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <?php include('default.php'); ?>
-    <title>Management Team | Laxmi Saraswati Real Estate – Leadership & Vision in Property Services</title>
-    <meta content="Managing Director Rajesh Kumar — driving innovation, strategic property marketing, and development across residential and commercial real estate sectors." name="description">
-    <meta content="Laxmi Saraswati Real Estate management team, real estate leadership Patna, Rajesh Kumar Managing Director, real estate company leadership Bihar, Laxmi Saraswati Real Estate executives, property marketing leadership team, real estate vision and strategy Patna, real estate management and planning team" name="keywords">
-    <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <?php include('default.php'); ?>
+  <title>Management Team | Laxmi Saraswati Real Estate – Leadership & Vision in Property Services</title>
+  <meta name="description" content="Managing Director Rajesh Kumar — driving innovation, strategic property marketing, and development across residential and commercial real estate sectors.">
+  <meta name="keywords" content="Laxmi Saraswati Real Estate management team, real estate leadership Patna, Rajesh Kumar Managing Director, real estate company leadership Bihar, Laxmi Saraswati Real Estate executives, property marketing leadership team, real estate vision and strategy Patna, real estate management and planning team">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="">
-    <!-- Vendor CSS Files -->
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="">
+  <!-- Vendor CSS Files -->
 
-    <!-- Main CSS File -->
-    <?php include('includes/css.php'); ?>
+  <!-- Main CSS File -->
+  <?php include('includes/css.php'); ?>
 
 
 
@@ -32,9 +32,9 @@
   <?php include('includes/header.php'); ?>
 
   <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" 
-   style="background: url(assets/img/Banner/1.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
-   <div class="container-fluid p-0 text-center text-white">
+  <section id="aboutbanner"
+    style="background: url(assets/img/Banner/1.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
+    <div class="container-fluid p-0 text-center text-white">
       <h1>MANAGEMENT TEAM</h1>
     </div>
   </section>
@@ -42,14 +42,14 @@
 
   <main id="main">
 
-   <div class="col-md-12 text-center">
-            <h4>MANAGEMENT TEAM</h4>
-            <hr class="dividercenter">
-        </div>
+    <div class="col-md-12 text-center">
+      <h4>MANAGEMENT TEAM</h4>
+      <hr class="dividercenter">
+    </div>
     <!-- ======= Management Section ======= -->
     <section class="property py-5">
       <div class="container">
-        
+
         <!-- Director Section -->
         <div class="row align-items-center mb-5">
           <div class="col-md-9">
@@ -78,7 +78,7 @@
             <img src="assets/img/Management-Team/55.jpg" class="w-100 rounded shadow-sm" alt="Rajesh Kumar">
             <h5 class="mt-3 py-2" style="
                 background: linear-gradient(180deg, #FE9C2E 20%, #7A5314 80%); color: #000000ff; border-radius: 6px;">
-             Office
+              Office
             </h5>
           </div>
 
@@ -104,7 +104,7 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
     <i class="bi bi-arrow-up-short"></i>
   </a>
- <?php include('includes/script.php');?>
+  <?php include('includes/script.php'); ?>
 </body>
 
 </html>

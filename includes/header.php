@@ -21,8 +21,8 @@
         <!-- Contact Numbers -->
         <div class="col-lg-4 col-md-4 col-12 text-lg-end text-md-end text-center mt-2 mt-md-0">
           <div class="topbar-contact">
-            <a href="tel:8340703433" class="text-decoration-none me-2"><i class="fa fa-phone" aria-hidden="true"></i>8340703433</a>
-            <a href="tel:08340703433" class="text-decoration-none"><i class="fa fa-phone" aria-hidden="true"></i>08340703433</a>
+            <a href="tel:8340703433" class="text-decoration-none me-2"><i class="fa fa-phone" aria-hidden="true"></i>+91 8340703433,</a>
+            <a href="tel:9546489843" class="text-decoration-none">9546489843</a>
           </div>
         </div>
 
@@ -77,19 +77,19 @@
                 </ul>
               </li>
 
-          <li><a href="contact.php">Contact Us</a></li>
+              <li><a href="contact.php">Contact Us</a></li>
 
-          
-        </ul>
-        
+
+            </ul>
+
 
             <!-- Social Icons in Navbar -->
-            <div class="social-links d-lg-none d-md-none d-sm-none">
+            <!-- <div class="social-links d-lg-none d-md-none d-sm-none">
               <a href="https://www.facebook.com/laxmisaraswatirealestate" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="https://www.youtube.com/@laxmiSarswati_realestate" target="_blank" class="twitter"><i class="fa fa-youtube"></i></a>
               <a href="https://www.instagram.com/laxmisaraswati_realestate/" target="_blank" class="pinterest"><i class="fa fa-instagram"></i></a>
               <a href="https://www.linkedin.com/in/rajesh-kumar-24b865397/" target="_blank" class="google-plus"><i class="fa fa-linkedin"></i></a>
-            </div>
+            </div> -->
 
             <!-- Mobile Nav Toggle -->
             <i class="bi bi-list mobile-nav-toggle d-lg-none" id="mobile-toggle"></i>
@@ -460,9 +460,9 @@
       justify-content: end;
     }
 
-    .social-links {
+    /* .social-links {
       display: none;
-    }
+    } */
   }
 </style>
 

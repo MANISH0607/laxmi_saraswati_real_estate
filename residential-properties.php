@@ -8,8 +8,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
     <title>Residential Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
-    <meta content="Discover premium residential properties in Patna, Bihar with Laxmi Saraswati Real Estate. Find flats, houses, and residential projects in prime locations with modern amenities and excellent investment opportunities." name="description">
-    <meta content="residential properties in Patna, flats for sale in Patna Bihar, residential projects in Patna, house for sale in Patna, buy flat in Patna Bihar, residential real estate Patna, apartments in Patna Bihar, new residential projects in Patna, property in Patna, for sale residential investment in Patna, luxury flats in Patna Bihar, best residential property in Patna" name="keywords">
+    <meta name="description" content="Discover premium residential properties in Patna, Bihar with Laxmi Saraswati Real Estate. Find flats, houses, and residential projects in prime locations with modern amenities and excellent investment opportunities.">
+    <meta name="keywords" content="residential properties in Patna, flats for sale in Patna Bihar, residential projects in Patna, house for sale in Patna, buy flat in Patna Bihar, residential real estate Patna, apartments in Patna Bihar, new residential projects in Patna, property in Patna, for sale residential investment in Patna, luxury flats in Patna Bihar, best residential property in Patna">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
@@ -29,31 +29,31 @@
 
 <body>
 
-  <?php include('includes/header.php'); ?>
+    <?php include('includes/header.php'); ?>
 
 
- <!-- ======= Banner Section ======= -->
-  <section id="aboutbanner" 
-style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; "> 
-   <div class="container-fluid p-0">
-      <h1>RESIDENTIAL PROJECTS</h1>
-      
-    </div>
-  </section>
-  <!-- End Banner -->
-  <main id="main">
+    <!-- ======= Banner Section ======= -->
+    <section id="aboutbanner"
+        style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 50px;padding: 190px 0px 100px 0px; ">
+        <div class="container-fluid p-0">
+            <h1>RESIDENTIAL PROJECTS</h1>
 
-  
-   <div class="col-md-12 text-center">
+        </div>
+    </section>
+    <!-- End Banner -->
+    <main id="main">
+
+
+        <div class="col-md-12 text-center">
             <h4>RESIDENTIAL PROJECTS</h4>
             <hr class="dividercenter">
         </div>
-    
-    <section class="recent">
+
+        <section class="recent">
             <div class="container">
                 <div class="row">
 
-                 
+
                     <div class="col-md-3">
                         <div class="recent-box">
                             <img src="./assets/img/plots/6.png">
@@ -67,7 +67,7 @@ style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);b
                         <div class="recent-box">
                             <img src="./assets/img/plots/8.png">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -76,7 +76,7 @@ style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);b
                         <div class="recent-box">
                             <img src="./assets/img/plots/7.png">
                             <h6>PROJECT NAME</h6>
-                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>  BIHAR</p>
+                            <p><i class="fa fa-map-marker" aria-hidden="true"></i> BIHAR</p>
 
                         </div>
                     </div>
@@ -408,52 +408,52 @@ style="background: url(assets/img/Banner/laxmi_saraswati_realstate_banner.png);b
         </section>
 
         <!-- start -->
-    <div class="call-do-action-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="dued-section-title white upper mb-30">
-              <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
-              <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
-                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
-            </div>
-            <div class="new-button ">
-              <a href="contact.php">Contact Us</a>
-            </div>
-          </div>
-          <div class="col-md-2"></div>
-          <div class="col-md-3 man-sec">
-            <div class="wow zoomInRight" data-aos-duration="3000">
-              <!-- <img src="" title=""
+        <div class="call-do-action-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="dued-section-title white upper mb-30">
+                            <h2 data-aos="flip-up" data-aos-duration="2000">Get in Touch With Us</h2>
+                            <p class="mb-0" data-aos="fade-in" data-aos-duration="2000">Get in Touch with Laxmi Saraswati Real Estate
+                                – Have questions or need assistance? Contact us today for expert guidance and support.</p>
+                        </div>
+                        <div class="new-button ">
+                            <a href="contact.php">Contact Us</a>
+                        </div>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3 man-sec">
+                        <div class="wow zoomInRight" data-aos-duration="3000">
+                            <!-- <img src="" title=""
                 style="border-radius:50%;height:200px;padding:6px;border:1px dashed white;" alt=""> -->
+                        </div>
+
+                    </div>
+                </div>
             </div>
-
-          </div>
         </div>
-      </div>
-    </div>
-    <!-- end -->
+        <!-- end -->
 
-  </main><!-- End #main -->
+    </main><!-- End #main -->
 
-   <?php include('includes/footer.php'); ?>
+    <?php include('includes/footer.php'); ?>
 
-  <!-- Back to Top -->
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
-    <i class="bi bi-arrow-up-short"></i>
-  </a>
+    <!-- Back to Top -->
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+        <i class="bi bi-arrow-up-short"></i>
+    </a>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Main JS -->
-  <script src="assets/js/main.js"></script>
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

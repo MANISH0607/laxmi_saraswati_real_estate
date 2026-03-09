@@ -30,7 +30,7 @@
           <div class="col-lg-4 col-md-6 footer-links">
             <h4>PATNA OFFICE</h4>
              <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"  style="line-height: 24px;">Pillar No. 93, Post Office Police Station NH- 83 Railway Crossing Opposite Rahimpur Parsa Bazar Patna Bihar 804453, </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"  style="line-height: 24px;">Pillar No. 93, Post Office Police Station NH- 83 Railway Crossing Opposite Rahimpur Parsa Bazar Patna Bihar 804453 </a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="tel:+91-8340703433">+91-8340703433</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="tel:+91-9546489843">+91-9546489843</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="mailto:.co.in">info@.co.in</a></li>

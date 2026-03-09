@@ -8,8 +8,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <?php include('default.php'); ?>
     <title>Commercial Retail Properties in Patna Bihar | Laxmi Saraswati Real Estate</title>
-    <meta content="Explore premium commercial and retail properties in Patna, Bihar. Find commercial buildings, and investment-ready commercial projects in prime locations." name="description">
-    <meta content="commercial retail properties in Patna, retail space for sale in Patna, commercial property in Bihar, shops for sale in Patna, retail shops in Bihar, commercial real estate Patna, shop space in Patna Bihar, commercial investment property Patna, retail property in Patna Bihar, commercial projects in Patna, buy retail shop in Patna, commercial space for business Patna" name="keywords">
+    <meta name="description" content="Explore premium commercial and retail properties in Patna, Bihar. Find commercial buildings, and investment-ready commercial projects in prime locations.">
+    <meta name="keywords" content="commercial retail properties in Patna, retail space for sale in Patna, commercial property in Bihar, shops for sale in Patna, retail shops in Bihar, commercial real estate Patna, shop space in Patna Bihar, commercial investment property Patna, retail property in Patna Bihar, commercial projects in Patna, buy retail shop in Patna, commercial space for business Patna">
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

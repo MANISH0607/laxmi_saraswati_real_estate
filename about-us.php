@@ -8,8 +8,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <?php include('default.php'); ?>
   <title>About Us | Laxmi Saraswati Real Estate – Trusted Real Estate Company in Bihar</title>
-  <meta content="Laxmi Saraswati Real Estate firm in Bihar, known for integrity, innovation, and comprehensive property solutions including consulting, land procurement, plot sale planning." name="description">
-  <meta content="Laxmi Saraswati Real Estate, About Laxmi Saraswati Real Estate, real estate company in Patna, real estate company in Bihar, property consultants in Patna, trusted property dealer Bihar, land acquisition services Patna, real estate company Bihar, residential property services Patna, commercial property consultants Bihar" name="keywords">
+  <meta name="description" content="Laxmi Saraswati Real Estate firm in Bihar, known for integrity, innovation, and comprehensive property solutions including consulting, land procurement, plot sale planning.">
+  <meta name="keywords" content="Laxmi Saraswati Real Estate, About Laxmi Saraswati Real Estate, real estate company in Patna, real estate company in Bihar, property consultants in Patna, trusted property dealer Bihar, land acquisition services Patna, real estate company Bihar, residential property services Patna, commercial property consultants Bihar">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

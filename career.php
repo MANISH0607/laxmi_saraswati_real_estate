@@ -8,8 +8,8 @@
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<?php include('default.php'); ?>
 	<title>Careers at Laxmi Saraswati Real Estate | Jobs in Real Estate Patna Bihar</title>
-	<meta content="Join Laxmi Saraswati Real Estate and build your career in real estate industry. Explore job opportunities in sales, marketing, site management, and property consulting" name="description">
-	<meta content="Laxmi Saraswati Real Estate careers, real estate jobs Patna Bihar, property dealer jobs Bihar, sales executive jobs real estate Patna, real estate career opportunities Bihar, property consultant jobs Patna, real estate company hiring Bihar, marketing jobs real estate Patna, land property jobs Bihar, jobs at Laxmi Saraswati Real Estate" name="keywords">
+	<meta name="description" content="Join Laxmi Saraswati Real Estate and build your career in real estate industry. Explore job opportunities in sales, marketing, site management, and property consulting">
+	<meta name="keywords" content="Laxmi Saraswati Real Estate careers, real estate jobs Patna Bihar, property dealer jobs Bihar, sales executive jobs real estate Patna, real estate career opportunities Bihar, property consultant jobs Patna, real estate company hiring Bihar, marketing jobs real estate Patna, land property jobs Bihar, jobs at Laxmi Saraswati Real Estate">
 	<!-- Favicons -->
 	<link href="assets/img/favicon.png" rel="icon">
 	<link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">

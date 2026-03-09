@@ -8,8 +8,8 @@
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<?php include('default.php'); ?>
 	<title>Contact Laxmi Saraswati Real Estate | Property Dealer in Patna Bihar</title>
-	<meta content="Contact Laxmi Saraswati Real Estate for trusted property buying, selling, and investment in Patna and Bihar. Get expert support and property details today." name="description">
-	<meta content="contact Laxmi Saraswati Real Estate, property dealer contact Patna, real estate office Patna Bihar, plot sale inquiry Bihar, land property contact Patna, real estate phone number Bihar, property consultation Patna, real estate support Bihar, commercial property inquiry Patna, residential plot booking Bihar" name="keywords">
+	<meta name="description" content="Contact Laxmi Saraswati Real Estate for trusted property buying, selling, and investment in Patna and Bihar. Get expert support and property details today.">
+	<meta name="keywords" content="contact Laxmi Saraswati Real Estate, property dealer contact Patna, real estate office Patna Bihar, plot sale inquiry Bihar, land property contact Patna, real estate phone number Bihar, property consultation Patna, real estate support Bihar, commercial property inquiry Patna, residential plot booking Bihar">
 	<!-- Favicons -->
 	<link href="assets/img/favicon.png" rel="icon">
 	<link href="assets/img/apple-touch-icon.html" rel="apple-touch-icon">
@@ -33,9 +33,9 @@
 
 
 	<!-- ======= Banner Section ======= -->
-	<section id="aboutbanner" 
-   style="background: url(assets/img/Banner/contact-hero.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 80px;padding: 190px 0px 100px 0px; ">		
-<div class="container-fluid p-0">
+	<section id="aboutbanner"
+		style="background: url(assets/img/Banner/contact-hero.png);background-size: cover; background-position: inherit; background-repeat: no-repeat; position: relative; width: 100%;margin-top: 80px;padding: 190px 0px 100px 0px; ">
+		<div class="container-fluid p-0">
 			<h1></h1>
 
 		</div>
@@ -54,8 +54,8 @@
 							<div>
 								<h4 class="text-center text-slate-contact">Mail Us</h4>
 								<a href="mailto:info.@gmail.com " class="footerList text-black contact-font text-center my-2">
-									
-info@.co.in</a>
+
+									info@.co.in</a>
 							</div>
 						</div>
 						<div>
